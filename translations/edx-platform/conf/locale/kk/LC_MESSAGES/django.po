@@ -3,29 +3,29 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  edx_proctoring_proctortrack.po (0.1a)  #-#-#-#-#
 # edX translation file
 # Copyright (C) 2025 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2025 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
 # Eden Huthmacher, 2025
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -42,7 +42,7 @@ msgstr ""
 "Language: kk\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#Мой переводы 
+#Мой переводы
 msgid "Stay updated with the latest news and announcements"
 msgstr "Соңғы жаңалықтар мен хабарландырулардан хабардар болыңыз"
 
@@ -453,6 +453,9 @@ msgstr "Онлайн"
 
 msgid "Courses"
 msgstr "Курстар"
+
+msgid "Filter Courses"
+msgstr "Курстарды іздеу"
 
 msgid "Open"
 msgstr "Ашық"
