@@ -457,6 +457,9 @@ msgstr "Курстар"
 msgid "Filter Courses"
 msgstr "Курстарды іздеу"
 
+msgid "Search by course name..."
+msgstr "Курс атауы бойынша іздеу..."
+
 msgid "Open"
 msgstr "Ашық"
 
