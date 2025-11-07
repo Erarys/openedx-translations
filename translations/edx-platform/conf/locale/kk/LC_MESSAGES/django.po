@@ -460,6 +460,15 @@ msgstr "Курстарды іздеу"
 msgid "Search by course name..."
 msgstr "Курс атауы бойынша іздеу..."
 
+msgid "All languages"
+msgstr "Барлық тілдер"
+
+msgid "All statuses"
+msgstr "Барлығы (ағымдағы & ескі)"
+
+msgid "All organizations"
+msgstr "Барлық факультеттер"
+
 msgid "Open"
 msgstr "Ашық"
 
