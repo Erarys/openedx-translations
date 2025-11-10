@@ -53,7 +53,16 @@ msgid "All languages"
 msgstr "Все языки"
 
 msgid "All statuses"
-msgstr "Все(текущие & архивные)"
+msgstr "Все (текущиий & архивный)"
+
+msgid "en"
+msgstr "Английский"
+
+msgid "ru"
+msgstr "Русский"
+
+msgid "kk"
+msgstr "Казахский"
 
 msgid "All organizations"
 msgstr "Все факультеты"

@@ -469,6 +469,15 @@ msgstr "Барлығы (ағымдағы & ескі)"
 msgid "All organizations"
 msgstr "Барлық факультеттер"
 
+msgid "en"
+msgstr "Ағылшынша"
+
+msgid "ru"
+msgstr "Орысша"
+
+msgid "kk"
+msgstr "Қазақша"
+
 msgid "Open"
 msgstr "Ашық"
 
