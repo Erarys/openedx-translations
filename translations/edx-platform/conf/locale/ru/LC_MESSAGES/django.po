@@ -64,6 +64,12 @@ msgstr "Русский"
 msgid "kk"
 msgstr "Казахский"
 
+msgid "Ongoing"
+msgstr "Текущий"
+
+msgid "Completed"
+msgstr "Архивный"
+
 msgid "All organizations"
 msgstr "Все факультеты"
 

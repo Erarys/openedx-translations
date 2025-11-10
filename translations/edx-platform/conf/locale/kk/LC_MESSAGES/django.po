@@ -460,6 +460,12 @@ msgstr "Курстарды іздеу"
 msgid "Search by course name..."
 msgstr "Курс атауы бойынша іздеу..."
 
+msgid "Ongoing"
+msgstr "Ағымдағы"
+
+msgid "Completed"
+msgstr "Аяқталды"
+
 msgid "All languages"
 msgstr "Барлық тілдер"
 
@@ -904,8 +910,6 @@ msgstr "Сәтсіз"
 
 #: cms/djangoapps/contentstore/models.py:357 lms/templates/seq_block.html:76
 #: lms/templates/vert_module.html:28
-msgid "Completed"
-msgstr "Аяқталды"
 
 #: cms/djangoapps/contentstore/models.py:369
 msgid "Linking status for course context key"

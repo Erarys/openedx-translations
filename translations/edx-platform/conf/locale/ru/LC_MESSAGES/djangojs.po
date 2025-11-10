@@ -7408,11 +7408,7 @@ msgstr ""
 "предметам"
 
 #: lms/templates/learner_dashboard/program_card.underscore:18
-msgid "Ongoing"
-msgstr "Текущий"
 
-msgid "Completed"
-msgstr "Архивный"
 
 #: lms/templates/learner_dashboard/program_card.underscore:34
 msgid "Remaining"
