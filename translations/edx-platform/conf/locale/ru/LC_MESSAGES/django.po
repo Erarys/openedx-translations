@@ -65,10 +65,27 @@ msgid "kk"
 msgstr "Казахский"
 
 msgid "Ongoing"
-msgstr "Текущий"
+msgstr "Текущие курсы"
 
 msgid "Completed"
-msgstr "Архивный"
+msgstr "Архивные курсы"
+
+# Erarys
+msgid "FIT"
+msgstr "Факультет информационных технологий (FIT)"
+
+msgid "FL"
+msgstr "Факультет иностранных языков (FL)"
+
+msgid "FP"
+msgstr "Факультет философии и политологии (FP)"
+
+msgid "LAW"
+msgstr "Юридический факультет (LAW)"
+
+msgid "unesco"
+msgstr "Кафедра ЮНЕСКО"
+
 
 msgid "All organizations"
 msgstr "Все факультеты"
