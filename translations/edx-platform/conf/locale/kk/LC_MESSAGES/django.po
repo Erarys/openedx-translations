@@ -23313,7 +23313,7 @@ msgstr "Сабақтар аяқталды"
 
 #: lms/templates/courseware/course_about.html:206
 msgid "Estimated Effort"
-msgstr "Болжалды күш"
+msgstr "Курстың жүктемесі"
 
 #: lms/templates/courseware/course_about.html:223
 msgid "Prerequisites"
