@@ -17006,7 +17006,20 @@ msgstr "Занятия заканчиваются"
 
 #: lms/templates/courseware/course_about.html:217
 msgid "Estimated Effort"
-msgstr "Трудоёмкость курса "
+msgstr "Трудоёмкость курса"
+
+msgid "Course Difficulty"
+msgstr "Сложности курса"
+
+msgid "easy"
+msgstr "Лёгкий"
+
+msgid "medium"
+msgstr "Средний"
+
+msgid "hard"
+msgstr "Сложный"
+
 
 #: lms/templates/courseware/course_about.html:234
 msgid "Prerequisites"

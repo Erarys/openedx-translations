@@ -23315,6 +23315,18 @@ msgstr "Сабақтар аяқталды"
 msgid "Estimated Effort"
 msgstr "Курстың жүктемесі"
 
+msgid "Course Difficulty"
+msgstr "Курстың күрделілігі"
+
+msgid "easy"
+msgstr "Жеңіл"
+
+msgid "medium"
+msgstr "Орташа"
+
+msgid "hard"
+msgstr "Қиын"
+
 #: lms/templates/courseware/course_about.html:223
 msgid "Prerequisites"
 msgstr "Алғы шарттар"
