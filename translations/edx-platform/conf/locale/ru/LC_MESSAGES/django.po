@@ -17009,7 +17009,7 @@ msgid "Estimated Effort"
 msgstr "Трудоёмкость курса"
 
 msgid "Course Difficulty"
-msgstr "Сложности курса"
+msgstr "Сложность курса"
 
 msgid "easy"
 msgstr "Лёгкий"
