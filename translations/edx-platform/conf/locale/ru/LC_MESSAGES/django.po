@@ -2643,6 +2643,9 @@ msgstr "Вакансии"
 msgid "News"
 msgstr "Новости"
 
+msgid "Analyze"
+msgstr "Статистика"
+
 #: lms/djangoapps/branding/api.py:317 lms/djangoapps/branding/api.py:391
 #: lms/djangoapps/certificates/views/webview.py:187
 msgid "Terms of Service & Honor Code"
