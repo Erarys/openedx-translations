@@ -28,7 +28,7 @@
 #
 #, fuzzy
 # Certificate tranlation
-msgid "None"
+msgid "Empty Row, cuz error, it unused"
 msgstr "Нон"
 
 msgid "Passed an online course"
