@@ -32,7 +32,7 @@ msgid "This certificate hereby confirms that"
 msgstr "Сертификат онлайн курсты толық аяқтағанын растайды"
 
 msgid "Passed an online course"
-msgstr "Онлайн курстан"
+msgstr "Онлайн курстан өтті"
 
 msgid "Date of issue"
 msgstr "Берілген күні"
