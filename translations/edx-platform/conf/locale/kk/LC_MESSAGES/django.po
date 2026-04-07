@@ -27,6 +27,39 @@
 # Eden Huthmacher, 2025
 #
 #, fuzzy
+# Certificate tranlation
+msgid "This certificate hereby confirms that"
+msgstr "Сертификат онлайн курсты толық аяқтағанын растайды"
+
+msgid "Passed an online course"
+msgstr "Онлайн курстан"
+
+msgid "Date of issue"
+msgstr "Берілген күні"
+
+msgid "Registration number"
+msgstr "Тіркеу нөмірі"
+
+msgid "Board Member - Vice-Rector for"
+msgstr "Басқарма мүшесі - Академиялық"
+
+msgid "Academic Affairs"
+msgstr "мәселелер бойынша проректор"
+
+msgid "Head of the Office of"
+msgstr "Академиялық және цифрлық"
+
+msgid "academic and digital innovation"
+msgstr "инновациялар кеңсесі басшысы"
+
+msgid "Course author"
+msgstr "Курс авторы"
+
+msgid "Course authors"
+msgstr "Курс авторлары"
+
+# Certificate translation end
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"

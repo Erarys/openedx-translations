@@ -25,10 +25,40 @@
 # Translators:
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
 # Brian Smith, 2025
-#
+# Certificate tranlation
 msgid "This certificate hereby confirms that"
 msgstr "Сертификат настоящим подтверждает, что"
 
+msgid "Passed an online course"
+msgstr "Прошел(-а) онлайн курс"
+
+msgid "Date of issue"
+msgstr "Дата выдачи"
+
+msgid "Registration number"
+msgstr "Регистрационный номер"
+
+msgid "Board Member - Vice-Rector for"
+msgstr "Член Правления - проректор"
+
+msgid "Academic Affairs"
+msgstr "по академическим вопросам"
+
+msgid "Head of the Office of"
+msgstr "Руководитель Офиса академических"
+
+msgid "academic and digital innovation"
+msgstr "и цифровых инноваций"
+
+msgid "Course author"
+msgstr "Автор курса"
+
+msgid "Course authors"
+msgstr "Авторы курса"
+
+
+
+# Certificate translation end
 #, fuzzy
 msgid ""
 msgstr ""
