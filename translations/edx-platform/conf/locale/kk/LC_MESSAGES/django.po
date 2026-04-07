@@ -28,7 +28,7 @@
 #
 #, fuzzy
 # Certificate tranlation
-msgid "This certificate hereby confirms"
+msgid "Translate"
 msgstr "Сертификат курсты аяқтағанын растайды"
 
 msgid "Passed an online course"

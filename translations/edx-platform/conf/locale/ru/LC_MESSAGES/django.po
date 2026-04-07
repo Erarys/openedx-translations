@@ -26,7 +26,7 @@
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
 # Brian Smith, 2025
 # Certificate tranlation
-msgid "This certificate hereby confirms"
+msgid "Translate"
 msgstr "Сертификат настоящим подтверждает, что"
 
 msgid "Passed an online course"
