@@ -26,6 +26,9 @@
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
 # Brian Smith, 2025
 #
+msgid "This certificate hereby confirms that"
+msgstr "Сертификат настоящим подтверждает, что"
+
 #, fuzzy
 msgid ""
 msgstr ""
