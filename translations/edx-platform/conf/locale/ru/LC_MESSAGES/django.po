@@ -27,7 +27,7 @@
 # Brian Smith, 2025
 # Certificate tranlation
 msgid "This certificate hereby confirms that"
-msgstr "Сертификат настоящим подтверждает, что"
+msgstr "Сертификат курсты аяқтағанын растайды"
 
 msgid "Passed an online course"
 msgstr "Прошел(-а) онлайн курс"
