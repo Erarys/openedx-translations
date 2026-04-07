@@ -29,7 +29,7 @@
 #, fuzzy
 # Certificate tranlation
 msgid "None"
-msgstr "None"
+msgstr "Нон"
 
 msgid "Passed an online course"
 msgstr "Онлайн курстан өтті"
