@@ -58,7 +58,7 @@ msgstr "Курс авторы"
 msgid "Course authors"
 msgstr "Курс авторлары"
 
-msgid "This certificate hereby confirms"
+msgid "This certificate hereby confirms that"
 msgstr "Сертификат курсты аяқтағанын растайды"
 # Certificate translation end
 
