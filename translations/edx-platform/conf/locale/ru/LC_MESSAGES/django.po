@@ -2673,9 +2673,11 @@ msgstr "Вакансии"
 
 #: lms/djangoapps/branding/api.py:300 lms/djangoapps/branding/api.py:374
 #: themes/red-theme/lms/templates/footer.html:37
+#: lms/templates/header/navbar-authenticated.html:117
 msgid "News"
 msgstr "Новости"
 
+#: lms/templates/header/navbar-authenticated.html:121
 msgid "Analyze"
 msgstr "Статистика"
 
