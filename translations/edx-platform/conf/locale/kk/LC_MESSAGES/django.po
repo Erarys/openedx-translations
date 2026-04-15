@@ -31,6 +31,17 @@
 msgid "Empty Row, cuz error, it unused"
 msgstr "Нон"
 
+# lms/templates/static_templates/competition.html:453
+msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
+msgstr "Академиялық және цифрлық инновациялар офисі ұйымдастыратын онлайн-курстарды (MOOC/SPOC) әзірлеу және жариялау бойынша педагогикалық сценарийлер конкурсы 2026 жылы өткізілмейді."
+
+msgid "Order on cancellation."
+msgstr "Бас тарту туралы өкім."
+
+msgid "Information about the next competition will be published on this page."
+msgstr "Келесі конкурс туралы ақпарат осы бетте жарияланады."
+
+#
 msgid "Passed an online course"
 msgstr "Онлайн курстан өтті"
 

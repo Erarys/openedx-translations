@@ -25,6 +25,17 @@
 # Translators:
 # edx_transifex_bot <i18n-working-group+edx-transifex-bot@edx.org>, 2025
 # Brian Smith, 2025
+
+# lms/templates/static_templates/competition.html:453
+msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
+msgstr "Конкурс педагогических сценариев по созданию и публикации онлайн-курсов (MOOC/SPOC), проводимый Офисом академических и цифровых инноваций, в 2026 году отменён."
+
+msgid "Order on cancellation."
+msgstr "Распоряжение об отмене."
+
+msgid "Information about the next competition will be published on this page."
+msgstr "Информация о проведении следующего конкурса будет опубликована на данной странице."
+
 # Certificate tranlation
 msgid "This certificate hereby confirms that"
 msgstr "Сертификат настоящим подтверждает, что"
