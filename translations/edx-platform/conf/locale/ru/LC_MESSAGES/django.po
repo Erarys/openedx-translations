@@ -30,6 +30,9 @@
 msgid "Attention!"
 msgstr "Внимание!"
 
+msgid "Order"
+msgstr "Распоряжение!"
+
 msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
 msgstr "Конкурс педагогических сценариев по созданию и публикации онлайн-курсов (MOOC/SPOC), проводимый Офисом академических и цифровых инноваций, в 2026 году отменён."
 

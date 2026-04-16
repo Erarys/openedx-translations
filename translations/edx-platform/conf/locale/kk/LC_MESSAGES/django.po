@@ -31,6 +31,9 @@
 msgid "Empty Row, cuz error, it unused"
 msgstr "Нон"
 
+msgid "Order"
+msgstr "Өкім!"
+
 # lms/templates/static_templates/competition.html:453
 msgid "Attention!"
 msgstr "Назар аударыңыз!"
