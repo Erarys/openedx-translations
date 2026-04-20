@@ -1637,6 +1637,7 @@
   "course-authoring.schedule-section.requirements.title": "Требования",
   "course-authoring.schedule-section.requirements.description": "Ожидания учащихся, проходящих этот курс",
   "course-authoring.schedule-section.requirements.timepicker.label": "Часы работы в неделю",
+  "course-authoring.schedule-section.requirements.courseDifficultyLabel.label": "Сложность курса",
   "course-authoring.schedule-section.requirements.timepicker.help-text": "Время, затраченное на выполнение всех курсовых работ",
   "course-authoring.schedule-section.requirements.dropdown.label": "Курс-пререквизит",
   "course-authoring.schedule-section.requirements.dropdown.help-text": "Курс, который студенты должны пройти перед началом данного курса",

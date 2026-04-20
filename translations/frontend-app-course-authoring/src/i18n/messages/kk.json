@@ -1102,6 +1102,7 @@
   "course-authoring.schedule-section.requirements.title": "Талаптар",
   "course-authoring.schedule-section.requirements.description": "Бұл курсқа қатысатын студенттердің үміттері",
   "course-authoring.schedule-section.requirements.timepicker.label": "Аптасына жұмыс сағаттары",
+  "course-authoring.schedule-section.requirements.courseDifficultyLabel.label": "Курстың күрделілігі",
   "course-authoring.schedule-section.requirements.timepicker.help-text": "Барлық курстық жұмысқа жұмсалған уақыт",
   "course-authoring.schedule-section.requirements.dropdown.label": "Пререквизиттік курс",
   "course-authoring.schedule-section.requirements.dropdown.help-text": "Студенттер осы курсты бастамас бұрын аяқтауы керек курс",
