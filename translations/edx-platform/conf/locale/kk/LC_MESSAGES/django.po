@@ -637,6 +637,9 @@ msgstr "Біздің жаңалықтар"
 msgid "Stay updated with the latest news and announcements"
 msgstr "Соңғы жаңалықтар мен хабарландырулардан хабардар болыңыз"
 
+msgid "Read more"
+msgstr "Толығырақ"
+
 msgid "Check out our latest updates on the platform"
 msgstr "Платформадағы соңғы жаңалықтармен танысыңыз"
 

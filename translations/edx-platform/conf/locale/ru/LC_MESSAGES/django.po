@@ -572,6 +572,9 @@ msgstr "Наши новости"
 msgid "Stay updated with the latest news and announcements"
 msgstr "Будьте в курсе последних новостей и анонсов"
 
+msgid "Read more"
+msgstr "Подробнее"
+
 msgid "Check out our latest updates on the platform"
 msgstr "Ознакомьтесь с последними обновлениями на платформе"
 
