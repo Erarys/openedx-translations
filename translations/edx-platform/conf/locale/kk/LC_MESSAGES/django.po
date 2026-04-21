@@ -634,6 +634,9 @@ msgstr "ЖАОК адамдардың бүкіл әлемде оқыту тәс�
 msgid "Our News"
 msgstr "Біздің жаңалықтар"
 
+msgid "Stay updated with the latest news and announcements"
+msgstr "Соңғы жаңалықтар мен хабарландырулардан хабардар болыңыз"
+
 msgid "Check out our latest updates on the platform"
 msgstr "Платформадағы соңғы жаңалықтармен танысыңыз"
 
