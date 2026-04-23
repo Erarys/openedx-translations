@@ -634,11 +634,13 @@ msgstr "ЖАОК адамдардың бүкіл әлемде оқыту тәс�
 msgid "Our News"
 msgstr "Біздің жаңалықтар"
 
+msgid "Other data"
+msgstr "Басқа ақпараттар"
+
 msgid "Read more"
 msgstr "Толығырақ"
 
-msgid "Other data"
-msgstr "Басқа ақпараттар"
+
 
 msgid "Check out our latest updates on the platform"
 msgstr "Платформадағы соңғы жаңалықтармен танысыңыз"
