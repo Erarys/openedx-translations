@@ -122,7 +122,6 @@ msgstr "Факультет"
 msgid "Direction"
 msgstr "Направление"
 
-
 msgid "Start"
 msgstr "Старт"
 
