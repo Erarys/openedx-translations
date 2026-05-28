@@ -4057,7 +4057,7 @@ msgid "News"
 msgstr "Жаңалықтар"
 
 msgid "Analyze"
-msgstr "Статистика"
+msgstr "Аналитика"
 
 #: lms/djangoapps/branding/api.py:317 lms/djangoapps/branding/api.py:391
 #: lms/djangoapps/certificates/views/webview.py:187
