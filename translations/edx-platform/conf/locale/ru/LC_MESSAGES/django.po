@@ -118,9 +118,6 @@ msgstr "году"
 msgid "Clear filter"
 msgstr "Сбросить фильтр"
 
-msgid "Course"
-msgstr "Курс"
-
 msgid "Faculty"
 msgstr "Факультет"
 
