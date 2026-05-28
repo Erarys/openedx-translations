@@ -478,7 +478,7 @@ msgid "About the Competition"
 msgstr "Конкурс туралы"
 
 msgid "The Office of Academic and Digital Innovations is accepting applications for participation in the competition of pedagogical scenarios for the creation and publication of online courses (MOOC/SPOC)"
-msgstr "Академиялық және цифрлық инновациялар офисі онлайн-курстарды (MOOC/SPOC) құру және жариялау бойынша педагогикалық сценарийлер конкурсына өтінімдерді қабылдайды"
+msgstr "Академиялық және цифрлық инновациялар кеңсесі онлайн-курстарды (MOOC/SPOC) құру және жариялау бойынша педагогикалық сценарийлер конкурсына өтінімдерді қабылдайды"
 
 msgid "MOOC Competition Regulations"
 msgstr "MOOC конкурсының ережелері"
