@@ -34,6 +34,9 @@ msgstr "Нон"
 msgid "Order"
 msgstr "Өкім!"
 
+# Analytics, Аналитика, Статистика translate
+
+
 # lms/templates/static_templates/competition.html:453
 msgid "Attention!"
 msgstr "Назар аударыңыз!"

@@ -30,6 +30,129 @@
 msgid "Attention!"
 msgstr "Внимание!"
 
+# Analytics, Аналитика, Статистика translate
+msgid "Analyze"
+msgstr "Аналитика"
+
+msgid "Course analytics"
+msgstr "Аналитика курсов"
+
+msgid "Course analysis"
+msgstr "Анализ курсов"
+
+msgid "Summary of published courses without test organizations. The current courses of the current year are shown below; schedules of faculties and directions filter the list."
+msgstr "Сводка по опубликованным курсам без тестовых организаций. Ниже показаны актуальные курсы текущего года; графики факультетов и направлений фильтруют список."
+
+msgid "Updated"
+msgstr "Обновлено"
+
+msgid "Total courses"
+msgstr "Всего курсов"
+
+msgid "Without test courses"
+msgstr "Без тестовых курсов"
+
+msgid "Current issues"
+msgstr "Актуальные за"
+
+msgid "Used in the list below"
+msgstr "Используются в списке ниже"
+
+msgid "Faculties"
+msgstr "Факультетов"
+
+msgid "With filled faculty field"
+msgstr "С заполненным полем faculty"
+
+msgid "Directions"
+msgstr "Направлений"
+
+msgid "With filled directions field"
+msgstr "С заполненным полем directions"
+
+msgid "Short summary"
+msgstr "Краткая сводка"
+
+msgid "Course languages"
+msgstr "Языки курсов"
+
+msgid "Languages"
+msgstr "Языки"
+
+msgid "No data"
+msgstr "Нет данных"
+
+msgid "Courses by year"
+msgstr "Курсы по годам"
+
+msgid "Course count dynamics by start date."
+msgstr "Динамика количества курсов по дате старта."
+
+msgid "Course structure"
+msgstr "Структура курсов"
+
+msgid "Click a faculty or direction bar to filter the current courses below."
+msgstr "Нажмите на столбец факультета или направления, чтобы отфильтровать актуальные курсы ниже."
+
+msgid "Courses by faculty"
+msgstr "Курсы по факультетам"
+
+msgid "Top faculties by number of courses."
+msgstr "Топ факультетов по количеству курсов."
+
+msgid "Courses by directions"
+msgstr "Курсы по направлениям"
+
+msgid "Top directions by number of courses."
+msgstr "Топ направлений по количеству курсов."
+
+msgid "Top 50 courses"
+msgstr "Курсы топ 50"
+
+msgid "Current courses with a start date in"
+msgstr "Актуальные курсы с датой старта в"
+
+msgid "year"
+msgstr "году"
+
+msgid "Clear filter"
+msgstr "Сбросить фильтр"
+
+msgid "Course"
+msgstr "Курс"
+
+msgid "Faculty"
+msgstr "Факультет"
+
+msgid "Direction"
+msgstr "Направление"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "There are no current courses for the selected filter in"
+msgstr "По выбранному фильтру нет актуальных курсов за"
+
+msgid "Courses"
+msgstr "Курсы"
+
+msgid "Not specified"
+msgstr "Не указано"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Shown"
+msgstr "Показано"
+
+msgid "of"
+msgstr "из"
+#
+
+
 msgid "Order"
 msgstr "Распоряжение!"
 
