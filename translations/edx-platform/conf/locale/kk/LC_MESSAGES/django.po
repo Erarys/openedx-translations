@@ -31,9 +31,6 @@
 msgid "Empty Row, cuz error, it unused"
 msgstr "Нон"
 
-msgid "Order"
-msgstr "Өкім!"
-
 # Analytics, Аналитика, Статистика translate
 
 msgid "Analyze"
@@ -158,15 +155,6 @@ msgstr "Келесі конкурс туралы ақпарат осы бетт�
 msgid "Attention!"
 msgstr "Назар аударыңыз!"
 
-
-msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
-msgstr "Академиялық және цифрлық инновациялар офисі ұйымдастыратын онлайн-курстарды (MOOC/SPOC) әзірлеу және жариялау бойынша педагогикалық сценарийлер конкурсы 2026 жылы өткізілмейді."
-
-msgid "Order on cancellation."
-msgstr "Бас тарту туралы өкім."
-
-msgid "Information about the next competition will be published on this page."
-msgstr "Келесі конкурс туралы ақпарат осы бетте жарияланады."
 
 #
 msgid "Passed an online course"
@@ -4056,8 +4044,6 @@ msgstr "Мансап"
 msgid "News"
 msgstr "Жаңалықтар"
 
-msgid "Analyze"
-msgstr "Аналитика"
 
 #: lms/djangoapps/branding/api.py:317 lms/djangoapps/branding/api.py:391
 #: lms/djangoapps/certificates/views/webview.py:187
