@@ -36,10 +36,128 @@ msgstr "Өкім!"
 
 # Analytics, Аналитика, Статистика translate
 
+msgid "Analyze"
+msgstr "Аналитика"
+
+msgid "Open it"
+msgstr "Ашу"
+
+msgid "Course analytics"
+msgstr "Курстар аналитикасы"
+
+msgid "Course analysis"
+msgstr "Курстарды талдау"
+
+msgid "Summary of published courses without test organizations. The current courses of the current year are shown below; schedules of faculties and directions filter the list."
+msgstr "Тестілік ұйымдарды қоспағандағы жарияланған курстар бойынша жиынтық. Төменде ағымдағы жылдың өзекті курстары көрсетілген; факультеттер мен бағыттар бойынша диаграммалар тізімді сүзгілейді."
+
+msgid "Updated"
+msgstr "Жаңартылды"
+
+msgid "Total courses"
+msgstr "Барлық курстар"
+
+msgid "Without test courses"
+msgstr "Тестілік курстарсыз"
+
+msgid "Current issues"
+msgstr "Ағымдағы"
+
+msgid "Used in the list below"
+msgstr "Төмендегі тізімде пайдаланылады"
+
+msgid "Faculties"
+msgstr "Факультеттер"
+
+msgid "With filled faculty field"
+msgstr "faculty өрісі толтырылған"
+
+msgid "Directions"
+msgstr "Бағыттар"
+
+msgid "With filled directions field"
+msgstr "directions өрісі толтырылған"
+
+msgid "Short summary"
+msgstr "Қысқаша жиынтық"
+
+msgid "Course languages"
+msgstr "Курс тілдері"
+
+msgid "Languages"
+msgstr "Тілдер"
+
+msgid "No data"
+msgstr "Деректер жоқ"
+
+msgid "Courses by year"
+msgstr "Жылдар бойынша курстар"
+
+msgid "Course count dynamics by start date."
+msgstr "Басталу күні бойынша курстар санының динамикасы."
+
+msgid "Click a faculty or direction bar to filter the current courses below."
+msgstr "Төмендегі өзекті курстарды сүзгілеу үшін факультет немесе бағыт бағанын басыңыз."
+
+msgid "Courses by faculty"
+msgstr "Факультеттер бойынша курстар"
+
+msgid "Top faculties by number of courses."
+msgstr "Курстар саны бойынша үздік факультеттер."
+
+msgid "Courses by directions"
+msgstr "Бағыттар бойынша курстар"
+
+msgid "Top directions by number of courses."
+msgstr "Курстар саны бойынша үздік бағыттар."
+
+msgid "Top 50 courses"
+msgstr "Үздік 50 курс"
+
+msgid "Current courses with a start date in"
+msgstr "Басталу күні көрсетілген өзекті курстар"
+
+msgid "year"
+msgstr "жылы"
+
+msgid "Clear filter"
+msgstr "Сүзгіні тазалау"
+
+msgid "Faculty"
+msgstr "Факультет"
+
+msgid "Direction"
+msgstr "Бағыт"
+
+msgid "Start"
+msgstr "Басталуы"
+
+msgid "There are no current courses for the selected filter in"
+msgstr "Таңдалған сүзгі бойынша өзекті курстар жоқ"
+
+msgid "Not specified"
+msgstr "Көрсетілмеген"
+
+msgid "Shown"
+msgstr "Көрсетілді"
+
+msgid "Order"
+msgstr "Өкім!"
+
+msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
+msgstr "Академиялық және цифрлық инновациялар офисі ұйымдастыратын онлайн курстарды (MOOC/SPOC) әзірлеу және жариялау бойынша педагогикалық сценарийлер конкурсы 2026 жылы өткізілмейді."
+
+msgid "Order on cancellation."
+msgstr "Күшін жою туралы өкім."
+
+msgid "Information about the next competition will be published on this page."
+msgstr "Келесі конкурс туралы ақпарат осы бетте жарияланады."
+
 
 # lms/templates/static_templates/competition.html:453
 msgid "Attention!"
 msgstr "Назар аударыңыз!"
+
 
 msgid "The competition for pedagogical scenarios for the development and publication of online courses (MOOC/SPOC), organized by the Office of Academic and Digital Innovations, has been canceled in 2026."
 msgstr "Академиялық және цифрлық инновациялар офисі ұйымдастыратын онлайн-курстарды (MOOC/SPOC) әзірлеу және жариялау бойынша педагогикалық сценарийлер конкурсы 2026 жылы өткізілмейді."

@@ -34,6 +34,9 @@ msgstr "Внимание!"
 msgid "Analyze"
 msgstr "Аналитика"
 
+msgid "Open it"
+msgstr "Открыть"
+
 msgid "Course analytics"
 msgstr "Аналитика курсов"
 
