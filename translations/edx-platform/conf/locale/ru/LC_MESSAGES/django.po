@@ -88,8 +88,6 @@ msgstr "Курсы по годам"
 msgid "Course count dynamics by start date."
 msgstr "Динамика количества курсов по дате старта."
 
-msgid "Course structure"
-msgstr "Структура курсов"
 
 msgid "Click a faculty or direction bar to filter the current courses below."
 msgstr "Нажмите на столбец факультета или направления, чтобы отфильтровать актуальные курсы ниже."
@@ -124,8 +122,6 @@ msgstr "Факультет"
 msgid "Direction"
 msgstr "Направление"
 
-msgid "Language"
-msgstr "Язык"
 
 msgid "Start"
 msgstr "Старт"
@@ -133,20 +129,13 @@ msgstr "Старт"
 msgid "There are no current courses for the selected filter in"
 msgstr "По выбранному фильтру нет актуальных курсов за"
 
-msgid "Courses"
-msgstr "Курсы"
 
 msgid "Not specified"
 msgstr "Не указано"
 
-msgid "Open"
-msgstr "Открыть"
-
 msgid "Shown"
 msgstr "Показано"
 
-msgid "of"
-msgstr "из"
 #
 
 
@@ -2821,8 +2810,6 @@ msgid "News"
 msgstr "Новости"
 
 #: lms/templates/header/navbar-authenticated.html:121
-msgid "Analyze"
-msgstr "Статистика"
 
 #: lms/djangoapps/branding/api.py:317 lms/djangoapps/branding/api.py:391
 #: lms/djangoapps/certificates/views/webview.py:187
