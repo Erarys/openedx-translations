@@ -84,6 +84,58 @@ msgstr ""
 msgid ""
 "Number of course outline regenerations successfully requested: {regenerates}"
 msgstr ""
+# Faculty translation
+msgid "Биология и биотехнология"
+msgstr "Biology and Biotechnology"
+
+msgid "Востоковедение"
+msgstr "Oriental Studies"
+
+msgid "Высшая школа экономики и бизнеса"
+msgstr "Higher School of Economics and Business"
+
+msgid "Довузовское образование"
+msgstr "Pre-university Education"
+
+msgid "Журналистика"
+msgstr "Journalism"
+
+msgid "Офис академических и цифровых инноваций"
+msgstr "Office of Academic and Digital Innovations"
+
+msgid "Информационные технологии и искусственный интеллект"
+msgstr "Information Technology and Artificial Intelligence"
+
+msgid "История"
+msgstr "History"
+
+msgid "Кластер инжиниринга и наукоемких технологий"
+msgstr "Cluster of Engineering and High Technologies"
+
+msgid "Механико-математический"
+msgstr "Mechanics and Mathematics"
+
+msgid "Физико-технический"
+msgstr "Physics and Technology"
+
+msgid "Филологический"
+msgstr "Philology"
+
+msgid "Философии и политологии"
+msgstr "Philosophy and Political Science"
+
+msgid "Химии и химической технологии"
+msgstr "Chemistry and Chemical Technology"
+
+msgid "Юридический"
+msgstr "Law"
+
+msgid "Международных отношений"
+msgstr "International Relations"
+
+msgid "Медицины и здравоохранения"
+msgstr "Medicine and Healthcare"
+
 
 #: cms/djangoapps/contentstore/admin.py:51
 msgid "Regenerate selected course outlines"
