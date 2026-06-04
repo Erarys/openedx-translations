@@ -248,7 +248,7 @@ msgid "unesco"
 msgstr "Кафедра ЮНЕСКО"
 
 
-msgid "All organizations"
+msgid "All faculties"
 msgstr "Все факультеты"
 
 msgid "Course launches"

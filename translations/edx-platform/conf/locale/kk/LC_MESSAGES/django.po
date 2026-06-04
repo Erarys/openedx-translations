@@ -633,7 +633,7 @@ msgstr "Барлық тілдер"
 msgid "All statuses"
 msgstr "Барлығы (ағымдағы & ескі)"
 
-msgid "All organizations"
+msgid "All faculties"
 msgstr "Барлық факультеттер"
 
 msgid "en"
