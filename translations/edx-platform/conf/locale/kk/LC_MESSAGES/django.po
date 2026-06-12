@@ -36,6 +36,9 @@ msgstr "Нон"
 msgid "Analyze"
 msgstr "Аналитика"
 
+msgid "Explore our collection of educational programs and start learning today"
+msgstr "Біздің білім беру бағдарламаларының жинағын зерттеп, бүгіннен бастап оқуды бастаңыз"
+
 msgid "Open it"
 msgstr "Ашу"
 
