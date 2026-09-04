@@ -111,8 +111,12 @@ msgstr "Бағыттар бойынша курстар"
 msgid "Top directions by number of courses."
 msgstr "Курстар саны бойынша үздік бағыттар."
 
-msgid "Top 50 courses"
-msgstr "Үздік 50 курс"
+msgid "All courses"
+msgstr "Барлық курстар"
+
+msgid "Launches"
+msgstr "Іске қосылуы"
+
 
 msgid "Current courses with a start date in"
 msgstr "Басталу күні көрсетілген өзекті курстар"

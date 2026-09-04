@@ -110,8 +110,11 @@ msgstr "Курсы по направлениям"
 msgid "Top directions by number of courses."
 msgstr "Топ направлений по количеству курсов."
 
-msgid "Top 50 courses"
-msgstr "Курсы топ 50"
+msgid "All courses"
+msgstr "Все курсы"
+
+msgid "Launches"
+msgstr "Запуски"
 
 msgid "Current courses with a start date in"
 msgstr "Актуальные курсы с датой старта в"
