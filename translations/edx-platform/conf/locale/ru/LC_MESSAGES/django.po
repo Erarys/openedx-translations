@@ -20494,3 +20494,140 @@ msgstr "Добавьте сюда ваш текст об авторских пр
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Редактор кода"
+
+# Course details translations
+#: lms/templates/news/course_details.html
+msgid "Back to all courses"
+msgstr "Назад ко всем курсам"
+
+#: lms/templates/news/course_details.html
+msgid "Statistics for this course run only."
+msgstr "Статистика только для этого запуска курса."
+
+#: lms/templates/news/course_details.html
+msgid "Go to course"
+msgstr "Перейти к курсу"
+
+#: lms/templates/news/course_details.html
+msgid "Total enrolled users"
+msgstr "Всего записанных пользователей"
+
+#: lms/templates/news/course_details.html
+msgid "All existing enrollment records, including inactive ones."
+msgstr "Все существующие записи на курс, включая неактивные."
+
+#: lms/templates/news/course_details.html
+msgid "Active enrollments"
+msgstr "Активные записи"
+
+#: lms/templates/news/course_details.html
+msgid "Currently enrolled; does not measure learning activity."
+msgstr "Сейчас записаны на курс; показатель не отражает учебную активность."
+
+#: lms/templates/news/course_details.html
+msgid "Certificate recipients"
+msgstr "Получили сертификаты"
+
+#: lms/templates/news/course_details.html
+msgid "Users with an issued, available certificate."
+msgstr "Пользователи с выданным и доступным сертификатом."
+
+#: lms/templates/news/course_details.html
+msgid "Certificate rate"
+msgstr "Доля получивших сертификат"
+
+#: lms/templates/news/course_details.html
+msgid "Certificate recipients divided by all enrolled users."
+msgstr "Доля пользователей с сертификатами от общего числа записанных."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment history"
+msgstr "Динамика записей"
+
+#: lms/templates/news/course_details.html
+msgid "New enrollment records over the last 12 calendar months. The current month is incomplete."
+msgstr "Новые записи на курс за последние 12 календарных месяцев. Текущий месяц ещё не завершён."
+
+#: lms/templates/news/course_details.html
+msgid "No new enrollments in this period."
+msgstr "За этот период новых записей нет."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment status"
+msgstr "Статус записей"
+
+#: lms/templates/news/course_details.html
+msgid "One user is counted once within this course run."
+msgstr "Каждый пользователь учитывается один раз в рамках этого запуска курса."
+
+#: lms/templates/news/course_details.html
+msgid "Active"
+msgstr "Активные"
+
+#: lms/templates/news/course_details.html
+msgid "Inactive"
+msgstr "Неактивные"
+
+#: lms/templates/news/course_details.html
+msgid "New in the last 30 days"
+msgstr "Новые за последние 30 дней"
+
+#: lms/templates/news/course_details.html
+msgid "New in the displayed period"
+msgstr "Новые за показанный период"
+
+#: lms/templates/news/course_details.html
+msgid "Learning outcomes"
+msgstr "Результаты обучения"
+
+#: lms/templates/news/course_details.html
+msgid "Based on saved grades and certificate records for enrolled users."
+msgstr "На основе сохранённых оценок и записей о сертификатах записанных пользователей."
+
+#: lms/templates/news/course_details.html
+msgid "Earned a passing grade at least once"
+msgstr "Хотя бы один раз получили проходную оценку"
+
+#: lms/templates/news/course_details.html
+msgid "A recorded passing date does not guarantee a currently valid certificate."
+msgstr "Зафиксированная дата получения проходной оценки не гарантирует наличие действующего сертификата."
+
+#: lms/templates/news/course_details.html
+msgid "Average saved grade"
+msgstr "Средняя сохранённая оценка"
+
+#: lms/templates/news/course_details.html
+msgid "Users with a saved grade"
+msgstr "Пользователей с сохранённой оценкой"
+
+#: lms/templates/news/course_details.html
+msgid "Missing grades are not counted as zero."
+msgstr "Отсутствующие оценки не считаются нулевыми."
+
+#: lms/templates/news/course_details.html
+msgid "Only issued, available certificates are counted. Revoked certificates and generation errors are excluded. This is not a download count."
+msgstr "Учитываются только выданные и доступные сертификаты. Отозванные сертификаты и ошибки формирования исключены. Это не количество скачиваний."
+
+#: lms/templates/news/course_details.html
+msgid "Course information"
+msgstr "Информация о курсе"
+
+#: lms/templates/news/course_details.html
+msgid "Start date"
+msgstr "Дата начала"
+
+#: lms/templates/news/course_details.html
+msgid "End date"
+msgstr "Дата окончания"
+
+#: lms/templates/news/course_details.html
+msgid "Analytics navigation"
+msgstr "Навигация по аналитике"
+
+#: lms/templates/news/course_details.html
+msgid "Course summary"
+msgstr "Сводка по курсу"
+
+#: lms/templates/news/course_details.html
+msgid "Monthly enrollments"
+msgstr "Записи на курс по месяцам"

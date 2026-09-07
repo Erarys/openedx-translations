@@ -16951,7 +16951,7 @@ msgstr ""
 #: cms/templates/course-create-rerun.html:84 cms/templates/index.html:81
 #: cms/templates/index.html:165 cms/templates/settings.html:72
 msgid "Organization"
-msgstr "Ұйымдастыру"
+msgstr "Ұйым"
 
 #: cms/templates/course-create-rerun.html:85 cms/templates/index.html:85
 #: cms/templates/index.html:167
@@ -27868,3 +27868,136 @@ msgstr "Авторлық құқық мәтінін осы жерге қойың�
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Код редакторы"
+
+# Course details translations
+#: lms/templates/news/course_details.html
+msgid "Back to all courses"
+msgstr "Барлық курстарға оралу"
+
+#: lms/templates/news/course_details.html
+msgid "Statistics for this course run only."
+msgstr "Тек осы курс легінің статистикасы."
+
+#: lms/templates/news/course_details.html
+msgid "Total enrolled users"
+msgstr "Тіркелген пайдаланушылар саны"
+
+#: lms/templates/news/course_details.html
+msgid "All existing enrollment records, including inactive ones."
+msgstr "Белсенді емес жазбаларды қоса алғанда, курсқа тіркелудің барлық жазбалары."
+
+#: lms/templates/news/course_details.html
+msgid "Active enrollments"
+msgstr "Белсенді тіркелулер"
+
+#: lms/templates/news/course_details.html
+msgid "Currently enrolled; does not measure learning activity."
+msgstr "Қазіргі уақытта курсқа тіркелген пайдаланушылар; бұл көрсеткіш оқу белсенділігін өлшемейді."
+
+#: lms/templates/news/course_details.html
+msgid "Certificate recipients"
+msgstr "Сертификат алғандар"
+
+#: lms/templates/news/course_details.html
+msgid "Users with an issued, available certificate."
+msgstr "Берілген әрі қолжетімді сертификаты бар пайдаланушылар."
+
+#: lms/templates/news/course_details.html
+msgid "Certificate rate"
+msgstr "Сертификат алу үлесі"
+
+#: lms/templates/news/course_details.html
+msgid "Certificate recipients divided by all enrolled users."
+msgstr "Сертификат алғандардың барлық тіркелген пайдаланушылар санына қатынасы."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment history"
+msgstr "Тіркелу динамикасы"
+
+#: lms/templates/news/course_details.html
+msgid "New enrollment records over the last 12 calendar months. The current month is incomplete."
+msgstr "Соңғы 12 күнтізбелік айдағы жаңа тіркелулер. Ағымдағы ай әлі аяқталған жоқ."
+
+#: lms/templates/news/course_details.html
+msgid "No new enrollments in this period."
+msgstr "Бұл кезеңде жаңа тіркелулер жоқ."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment status"
+msgstr "Тіркелу мәртебесі"
+
+#: lms/templates/news/course_details.html
+msgid "One user is counted once within this course run."
+msgstr "Осы курс легінде әр пайдаланушы бір рет есептеледі."
+
+#: lms/templates/news/course_details.html
+msgid "Active"
+msgstr "Белсенді"
+
+#: lms/templates/news/course_details.html
+msgid "Inactive"
+msgstr "Белсенді емес"
+
+#: lms/templates/news/course_details.html
+msgid "New in the last 30 days"
+msgstr "Соңғы 30 күнде жаңадан тіркелгендер"
+
+#: lms/templates/news/course_details.html
+msgid "New in the displayed period"
+msgstr "Көрсетілген кезеңде жаңадан тіркелгендер"
+
+#: lms/templates/news/course_details.html
+msgid "Learning outcomes"
+msgstr "Оқу нәтижелері"
+
+#: lms/templates/news/course_details.html
+msgid "Based on saved grades and certificate records for enrolled users."
+msgstr "Тіркелген пайдаланушылардың сақталған бағалары мен сертификат жазбалары негізінде."
+
+#: lms/templates/news/course_details.html
+msgid "Earned a passing grade at least once"
+msgstr "Кемінде бір рет өту бағасын алғандар"
+
+#: lms/templates/news/course_details.html
+msgid "A recorded passing date does not guarantee a currently valid certificate."
+msgstr "Өту бағасын алған күннің тіркелуі қазіргі уақытта жарамды сертификаттың бар екеніне кепілдік бермейді."
+
+#: lms/templates/news/course_details.html
+msgid "Average saved grade"
+msgstr "Сақталған бағалардың орташа мәні"
+
+#: lms/templates/news/course_details.html
+msgid "Users with a saved grade"
+msgstr "Сақталған бағасы бар пайдаланушылар"
+
+#: lms/templates/news/course_details.html
+msgid "Missing grades are not counted as zero."
+msgstr "Жоқ бағалар нөл ретінде есептелмейді."
+
+#: lms/templates/news/course_details.html
+msgid "Only issued, available certificates are counted. Revoked certificates and generation errors are excluded. This is not a download count."
+msgstr "Тек берілген және қолжетімді сертификаттар есептеледі. Күші жойылған сертификаттар мен жасау қателері есепке алынбайды. Бұл жүктеп алу саны емес."
+
+#: lms/templates/news/course_details.html
+msgid "Course information"
+msgstr "Курс туралы ақпарат"
+
+#: lms/templates/news/course_details.html
+msgid "Start date"
+msgstr "Басталу күні"
+
+#: lms/templates/news/course_details.html
+msgid "End date"
+msgstr "Аяқталу күні"
+
+#: lms/templates/news/course_details.html
+msgid "Analytics navigation"
+msgstr "Аналитика бөлімі бойынша навигация"
+
+#: lms/templates/news/course_details.html
+msgid "Course summary"
+msgstr "Курс бойынша жиынтық"
+
+#: lms/templates/news/course_details.html
+msgid "Monthly enrollments"
+msgstr "Айлар бойынша тіркелулер"
