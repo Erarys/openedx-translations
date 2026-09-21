@@ -28001,3 +28001,75 @@ msgstr "Курс бойынша жиынтық"
 #: lms/templates/news/course_details.html
 msgid "Monthly enrollments"
 msgstr "Айлар бойынша тіркелулер"
+
+#: lms/templates/news/course_details.html
+msgid "Selected runs"
+msgstr "Таңдалған іске қосылымдар"
+
+#: lms/templates/news/course_details.html
+msgid "Entire period"
+msgstr "Бүкіл кезең"
+
+#: lms/templates/news/course_details.html
+msgid "Choose course runs"
+msgstr "Курс іске қосылымдарын таңдаңыз"
+
+#: lms/templates/news/course_details.html
+msgid "Select one or more runs, or view all runs for the entire lifetime of the course."
+msgstr "Бір немесе бірнеше іске қосылымды таңдаңыз немесе курстың бүкіл жұмыс кезеңіндегі барлық іске қосылымдарды қараңыз."
+
+#: lms/templates/news/course_details.html
+msgid "Course runs"
+msgstr "Курс іске қосылымдары"
+
+#: lms/templates/news/course_details.html
+msgid "Start date not specified"
+msgstr "Басталу күні көрсетілмеген"
+
+#: lms/templates/news/course_details.html
+msgid "End date not specified"
+msgstr "Аяқталу күні көрсетілмеген"
+
+#: lms/templates/news/course_details.html
+msgid "Only this run"
+msgstr "Тек осы іске қосылым"
+
+#: lms/templates/news/course_details.html
+msgid "Apply selection"
+msgstr "Таңдауды қолдану"
+
+#: lms/templates/news/course_details.html
+msgid "All runs for the entire period"
+msgstr "Бүкіл кезеңдегі барлық іске қосылымдар"
+
+#: lms/templates/news/course_details.html
+msgid "Unique users across selected runs, including inactive enrollments."
+msgstr "Таңдалған іске қосылымдардағы бірегей пайдаланушылар, оның ішінде белсенді емес тіркелулер."
+
+#: lms/templates/news/course_details.html
+msgid "Users currently enrolled in at least one selected run; does not measure learning activity."
+msgstr "Қазір кемінде бір таңдалған іске қосылымға тіркелген пайдаланушылар; бұл көрсеткіш оқу белсенділігін өлшемейді."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment records across selected runs for the entire period. A user enrolled in two runs is counted twice. The current month is incomplete."
+msgstr "Бүкіл кезеңдегі таңдалған іске қосылымдар бойынша тіркелу жазбалары. Екі іске қосылымға тіркелген пайдаланушы екі рет есептеледі. Ағымдағы айдың деректері толық емес."
+
+#: lms/templates/news/course_details.html
+msgid "Each user is counted once across selected runs. Inactive means no active enrollment in any selected run."
+msgstr "Әр пайдаланушы таңдалған іске қосылымдар бойынша бір рет есептеледі. Белсенді емес дегеніміз — таңдалған іске қосылымдардың ешқайсысында белсенді тіркелуі жоқ."
+
+#: lms/templates/news/course_details.html
+msgid "Total enrollment records"
+msgstr "Тіркелу жазбаларының жалпы саны"
+
+#: lms/templates/news/course_details.html
+msgid "The average includes each saved grade in each selected run."
+msgstr "Орташа мәнде әр таңдалған іске қосылымдағы әрбір сақталған баға ескеріледі."
+
+#: lms/templates/news/course_details.html
+msgid "Issued certificates across selected runs"
+msgstr "Таңдалған іске қосылымдар бойынша берілген сертификаттар"
+
+#: lms/templates/news/course_details.html
+msgid "Information for the displayed run"
+msgstr "Көрсетілген іске қосылым туралы ақпарат"

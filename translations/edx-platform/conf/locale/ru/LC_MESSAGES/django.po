@@ -20631,3 +20631,75 @@ msgstr "Сводка по курсу"
 #: lms/templates/news/course_details.html
 msgid "Monthly enrollments"
 msgstr "Записи на курс по месяцам"
+
+#: lms/templates/news/course_details.html
+msgid "Selected runs"
+msgstr "Выбранные запуски"
+
+#: lms/templates/news/course_details.html
+msgid "Entire period"
+msgstr "Весь период"
+
+#: lms/templates/news/course_details.html
+msgid "Choose course runs"
+msgstr "Выберите запуски курса"
+
+#: lms/templates/news/course_details.html
+msgid "Select one or more runs, or view all runs for the entire lifetime of the course."
+msgstr "Выберите один или несколько запусков либо просмотрите все запуски за весь период существования курса."
+
+#: lms/templates/news/course_details.html
+msgid "Course runs"
+msgstr "Запуски курса"
+
+#: lms/templates/news/course_details.html
+msgid "Start date not specified"
+msgstr "Дата начала не указана"
+
+#: lms/templates/news/course_details.html
+msgid "End date not specified"
+msgstr "Дата окончания не указана"
+
+#: lms/templates/news/course_details.html
+msgid "Only this run"
+msgstr "Только этот запуск"
+
+#: lms/templates/news/course_details.html
+msgid "Apply selection"
+msgstr "Применить выбор"
+
+#: lms/templates/news/course_details.html
+msgid "All runs for the entire period"
+msgstr "Все запуски за весь период"
+
+#: lms/templates/news/course_details.html
+msgid "Unique users across selected runs, including inactive enrollments."
+msgstr "Уникальные пользователи по выбранным запускам, включая неактивные записи на курс."
+
+#: lms/templates/news/course_details.html
+msgid "Users currently enrolled in at least one selected run; does not measure learning activity."
+msgstr "Пользователи, которые сейчас записаны хотя бы на один выбранный запуск; показатель не отражает учебную активность."
+
+#: lms/templates/news/course_details.html
+msgid "Enrollment records across selected runs for the entire period. A user enrolled in two runs is counted twice. The current month is incomplete."
+msgstr "Записи на курс по выбранным запускам за весь период. Пользователь, записанный на два запуска, учитывается дважды. Данные за текущий месяц неполные."
+
+#: lms/templates/news/course_details.html
+msgid "Each user is counted once across selected runs. Inactive means no active enrollment in any selected run."
+msgstr "Каждый пользователь учитывается один раз по всем выбранным запускам. Неактивный означает отсутствие активной записи на любой из выбранных запусков."
+
+#: lms/templates/news/course_details.html
+msgid "Total enrollment records"
+msgstr "Всего записей на курс"
+
+#: lms/templates/news/course_details.html
+msgid "The average includes each saved grade in each selected run."
+msgstr "Среднее значение учитывает каждую сохранённую оценку в каждом выбранном запуске."
+
+#: lms/templates/news/course_details.html
+msgid "Issued certificates across selected runs"
+msgstr "Выданные сертификаты по выбранным запускам"
+
+#: lms/templates/news/course_details.html
+msgid "Information for the displayed run"
+msgstr "Информация о показанном запуске"
