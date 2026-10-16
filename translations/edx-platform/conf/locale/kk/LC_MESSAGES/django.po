@@ -28073,3 +28073,476 @@ msgstr "Таңдалған іске қосылымдар бойынша бері
 #: lms/templates/news/course_details.html
 msgid "Information for the displayed run"
 msgstr "Көрсетілген іске қосылым туралы ақпарат"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"4.3. By 2030, ensure equal access for all women and men to affordable and "
+"quality technical, vocational and tertiary education, including university."
+msgstr ""
+"4.3. 2030 жылға қарай барлық әйелдер мен ерлер үшін қолжетімді әрі сапалы "
+"техникалық, кәсіптік және жоғары білімге, оның ішінде университеттік білімге"
+" тең қолжетімділікті қамтамасыз ету."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"4.4. By 2030, substantially increase the number of youth and adults who have"
+" relevant skills, including technical and vocational skills, for employment,"
+" decent jobs and entrepreneurship."
+msgstr ""
+"4.4. 2030 жылға қарай жұмысқа орналасу, лайықты жұмыс табу және "
+"кәсіпкерлікпен айналысу үшін сұранысқа ие дағдыларға, оның ішінде техникалық"
+" және кәсіптік дағдыларға ие жастар мен ересектердің санын айтарлықтай "
+"арттыру."
+
+#: lms/djangoapps/news/sdg4
+msgid "Academic degree / title"
+msgstr "Ғылыми дәрежесі / атағы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add a file or a link for every lesson."
+msgstr "Әр сабаққа файл немесе сілтеме қосыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one lesson to each of the three courses."
+msgstr "Үш курстың әрқайсысына кемінде бір сабақ қосыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add lesson"
+msgstr "Сабақ қосу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add teacher resources"
+msgstr "Оқытушының ресурстарын қосу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Al-Farabi Business School"
+msgstr "Al-Farabi business school"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"An uploaded file is already attached. Leave the upload field empty to keep "
+"it."
+msgstr "Файл тіркелген. Оны сақтау үшін жүктеу өрісін бос қалдырыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Annotation (up to 500 characters)"
+msgstr "Аннотация (500 таңбаға дейін)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Breadcrumbs"
+msgstr "Навигация жолы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose either an uploaded file or an existing URL."
+msgstr "Файл жүктеуді немесе бар файлға сілтемені таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose either uploaded subtitles or a subtitles URL."
+msgstr "Субтитр жүктеуді немесе оларға сілтемені таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Complete all three courses. Add PDF lectures or captioned videos in the "
+"required order. Only published pages are public."
+msgstr ""
+"Үш курсты да толтырыңыз. PDF дәрістерін немесе субтитрлері бар бейнелерді "
+"қажетті ретпен қосыңыз. Келушілерге тек жарияланған беттер қолжетімді."
+
+#: lms/djangoapps/news/sdg4
+msgid "Course type"
+msgstr "Курс түрі"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course {number}"
+msgstr "{number}-курс"
+
+#: lms/djangoapps/news/sdg4
+msgid "Creative Commons license"
+msgstr "Creative Commons лицензиясы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Current photo"
+msgstr "Қазіргі фото"
+
+#: lms/djangoapps/news/sdg4
+msgid "Department"
+msgstr "Кафедра"
+
+#: lms/djangoapps/news/sdg4
+msgid "Discipline"
+msgstr "Пән"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download PDF"
+msgstr "PDF жүктеп алу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Downloads"
+msgstr "Жүктеп алулар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft"
+msgstr "Жоба"
+
+#: lms/djangoapps/news/sdg4
+msgid "E-learning resources — {name}"
+msgstr "{name} — электрондық оқу ресурстары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit resources"
+msgstr "Ресурстарды өңдеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Education open to everyone"
+msgstr "Баршаға ашық білім"
+
+#: lms/djangoapps/news/sdg4
+msgid "Educational programme code"
+msgstr "Білім беру бағдарламасының шифры"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter the video duration."
+msgstr "Бейненің ұзақтығын көрсетіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing file URL or YouTube link"
+msgstr "Жүктелген файлдың мекенжайы немесе YouTube сілтемесі"
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing subtitles URL"
+msgstr "Жүктелген субтитрлердің мекенжайы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Explore open educational resources"
+msgstr "Ашық оқу ресурстарына өту"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Biology and Biotechnology"
+msgstr "Биология және биотехнология факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Chemistry and Chemical Technology"
+msgstr "Химия және химиялық технология факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Geography and Environmental Sciences"
+msgstr "География және табиғатты пайдалану факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of History"
+msgstr "Тарих факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Information Technology and Artificial Intelligence"
+msgstr "Ақпараттық технологиялар және жасанды интеллект факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of International Relations"
+msgstr "Халықаралық қатынастар факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Journalism"
+msgstr "Журналистика факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Law"
+msgstr "Заң факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Mechanics and Mathematics"
+msgstr "Механика-математика факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Medicine and Health Care"
+msgstr "Медицина және денсаулық сақтау факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Oriental Studies"
+msgstr "Шығыстану факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Philology"
+msgstr "Филология факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Philosophy and Political Science"
+msgstr "Философия және саясаттану факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Physics and Technology"
+msgstr "Физика-техникалық факультет"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Pre-Higher Education"
+msgstr "Жоғары оқу орнына дейінгі білім беру факультеті"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"For university YouTube videos, confirm that subtitles are available. For "
+"uploaded videos, attach a WebVTT file. Duration is entered in seconds."
+msgstr ""
+"Университеттің YouTube арнасындағы бейнелер үшін субтитрлердің бар екенін "
+"растаңыз. Жүктелген бейнеге WebVTT файлын тіркеңіз. Ұзақтық секундпен "
+"көрсетіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Full name"
+msgstr "Аты-жөні"
+
+#: lms/djangoapps/news/sdg4
+msgid "Higher School of Economics and Business"
+msgstr "Экономика және бизнес жоғары мектебі"
+
+#: lms/djangoapps/news/sdg4
+msgid "I verified that this university YouTube video has subtitles."
+msgstr ""
+"Университеттің YouTube арнасындағы бұл бейнеде субтитрлер бар екенін "
+"тексердім."
+
+#: lms/djangoapps/news/sdg4
+msgid "Language of materials"
+msgstr "Материалдар тілі"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Lecture and video courses from Al-Farabi KazNU teachers. Free access without"
+" registration."
+msgstr ""
+"Әл-Фараби атындағы ҚазҰУ оқытушыларының дәрістер мен бейнесабақтар курстары."
+" Тіркелусіз еркін қолжетімділік."
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture course"
+msgstr "Дәрістер курсы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture course: “{topic}”"
+msgstr "Дәрістер курсы: «{topic}»"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture materials must be PDF files."
+msgstr "Дәріс материалдары PDF форматында болуы керек."
+
+#: lms/djangoapps/news/sdg4
+msgid "Lesson"
+msgstr "Сабақ"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lesson title"
+msgstr "Сабақ атауы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lessons in display order"
+msgstr "Сабақтар көрсету ретімен"
+
+#: lms/djangoapps/news/sdg4
+msgid "MOOC link (optional)"
+msgstr "MOOC сілтемесі (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Manage SDG 4 resources"
+msgstr "ТДМ 4 ресурстарын басқару"
+
+#: lms/djangoapps/news/sdg4
+msgid "Number of lessons"
+msgstr "Сабақтар саны"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open PDF"
+msgstr "PDF ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open educational resources"
+msgstr "Ашық оқу ресурстары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open public page"
+msgstr "Ашық бетті ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open video"
+msgstr "Бейнені ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "PDF or video file"
+msgstr "PDF немесе бейне файлы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Permanent address"
+msgstr "Тұрақты мекенжай"
+
+#: lms/djangoapps/news/sdg4
+msgid "Permanent link for the application"
+msgstr "Өтінімге арналған тұрақты сілтеме"
+
+#: lms/djangoapps/news/sdg4
+msgid "Photo (optional)"
+msgstr "Фото (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Please correct the errors below. Reselect uploaded files before submitting "
+"again."
+msgstr ""
+"Төмендегі қателерді түзетіңіз. Қайта жібермес бұрын жүктелетін файлдарды "
+"қайта таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Position"
+msgstr "Лауазымы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication date"
+msgstr "Жарияланған күні"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publish this page"
+msgstr "Бетті жариялау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Published"
+msgstr "Жарияланған"
+
+#: lms/djangoapps/news/sdg4
+msgid "Resources for this faculty have not been published yet."
+msgstr "Бұл факультеттің ресурстары әлі жарияланбаған."
+
+#: lms/djangoapps/news/sdg4
+msgid "SDG 4: Quality Education"
+msgstr "ТДМ 4: Сапалы білім"
+
+#: lms/djangoapps/news/sdg4
+msgid "Save resources"
+msgstr "Ресурстарды сақтау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Subtitles (.vtt)"
+msgstr "Субтитрлер (.vtt)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Subtitles are required for each video."
+msgstr "Әр бейнеге субтитрлер міндетті."
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher profile"
+msgstr "Оқытушы туралы мәліметтер"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher's MOOC on Open KazNU"
+msgstr "Оқытушының Open KazNU платформасындағы MOOC курсы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers"
+msgstr "Оқытушылар"
+
+#: lms/djangoapps/news/sdg4
+msgid "The file exceeds the configured upload limit."
+msgstr "Файл көлемі белгіленген жүктеу шегінен асады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The file type does not match this material."
+msgstr "Файл түрі бұл материалға сәйкес келмейді."
+
+#: lms/djangoapps/news/sdg4
+msgid "This page was edited elsewhere. Reload it before saving."
+msgstr "Бұл бетті басқа редактор өзгертті. Сақтамас бұрын бетті жаңартыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"This section is part of NJSC Al-Farabi KazNU's contribution to UN "
+"Sustainable Development Goal 4, Quality Education. The University offers "
+"open access to its faculty's e-learning resources — lecture courses and "
+"video courses in Kazakh, Russian and English. Students, schoolchildren, "
+"professionals and lecturers from other universities can learn at their own "
+"pace, from anywhere in the world. In this way the University contributes to "
+"the following SDG 4 targets:"
+msgstr ""
+"Бұл бөлім БҰҰ-ның «Сапалы білім» атты № 4 тұрақты даму мақсаты аясында "
+"құрылды. «Әл-Фараби атындағы ҚазҰУ» КеАҚ өз оқытушыларының электрондық оқу "
+"ресурстарына — қазақ, орыс және ағылшын тілдеріндегі дәрістер мен "
+"бейнесабақтар курстарына еркін қолжетімділік ашады. Студент, мектеп оқушысы,"
+" маман немесе басқа ЖОО оқытушысы өзіне ыңғайлы уақытта, әлемнің кез келген "
+"нүктесінен білім ала алады. Осылайша университет ТДМ 4-тің мына міндеттеріне"
+" қол жеткізуге үлес қосады:"
+
+#: lms/djangoapps/news/sdg4
+msgid "This title prefix is reserved for SDG 4 resources."
+msgstr "Бұл тақырып префиксі ТДМ 4 ресурстарына арналған."
+
+#: lms/djangoapps/news/sdg4
+msgid "Topic"
+msgstr "Тақырып"
+
+#: lms/djangoapps/news/sdg4
+msgid "Total video duration"
+msgstr "Бейнелердің жалпы ұзақтығы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload WebVTT subtitles starting with WEBVTT."
+msgstr "WEBVTT жолынан басталатын WebVTT субтитрлерін жүктеңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a JPEG, PNG or WebP image up to 10 MB."
+msgstr "Көлемі 10 МБ-қа дейінгі JPEG, PNG немесе WebP суретін жүктеңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a valid PDF file."
+msgstr "Жарамды PDF файлын жүктеңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a site-relative file URL or an HTTPS URL."
+msgstr ""
+"Сайттағы файлдың салыстырмалы мекенжайын немесе HTTPS сілтемесін көрсетіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Use a surname and initials in Latin letters. The address is fixed after the "
+"first save."
+msgstr ""
+"Тегі мен аты-жөнінің бас әріптерін латын әріптерімен енгізіңіз. Мекенжай "
+"алғашқы сақтаудан кейін бекітіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a valid university YouTube video and confirm its subtitles."
+msgstr ""
+"Университеттің YouTube арнасындағы бейнеге жарамды сілтемені көрсетіп, "
+"субтитрлердің бар екенін растаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use an MP4, WebM or OGV video URL."
+msgstr "MP4, WebM немесе OGV бейнесіне сілтемені көрсетіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use university-hosted video or the university YouTube channel."
+msgstr ""
+"Университет серверіндегі немесе оның YouTube арнасындағы бейнені "
+"пайдаланыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Video course"
+msgstr "Бейнесабақтар курсы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Video course: “{topic}”"
+msgstr "Бейнесабақтар курсы: «{topic}»"
+
+#: lms/djangoapps/news/sdg4
+msgid "Video duration in seconds"
+msgstr "Бейненің ұзақтығы секундпен"
+
+#: lms/djangoapps/news/sdg4
+msgid "View PDF on this page"
+msgstr "PDF файлын осы бетте көру"
+
+#: lms/djangoapps/news/sdg4
+msgid "Views"
+msgstr "Қаралымдар"
+
+#: lms/djangoapps/news/sdg4
+msgid "{minutes} min {seconds} sec"
+msgstr "{minutes} мин {seconds} с"
+
+#: lms/templates/news/sdg4/index.html lms/templates/news/sdg4/faculty.html lms/templates/news/sdg4/teacher.html
+msgctxt "SDG 4 showcase"
+msgid "Faculties"
+msgstr "Факультеттер"

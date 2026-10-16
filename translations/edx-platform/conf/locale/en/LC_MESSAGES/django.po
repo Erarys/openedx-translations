@@ -24210,3 +24210,476 @@ msgstr ""
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr ""
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"4.3. By 2030, ensure equal access for all women and men to affordable and "
+"quality technical, vocational and tertiary education, including university."
+msgstr ""
+"4.3. By 2030, ensure equal access for all women and men to affordable and "
+"quality technical, vocational and tertiary education, including university."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"4.4. By 2030, substantially increase the number of youth and adults who have"
+" relevant skills, including technical and vocational skills, for employment,"
+" decent jobs and entrepreneurship."
+msgstr ""
+"4.4. By 2030, substantially increase the number of youth and adults who have"
+" relevant skills, including technical and vocational skills, for employment,"
+" decent jobs and entrepreneurship."
+
+#: lms/djangoapps/news/sdg4
+msgid "Academic degree / title"
+msgstr "Academic degree / title"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add a file or a link for every lesson."
+msgstr "Add a file or a link for every lesson."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one lesson to each of the three courses."
+msgstr "Add at least one lesson to each of the three courses."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add lesson"
+msgstr "Add lesson"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add teacher resources"
+msgstr "Add teacher resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Al-Farabi Business School"
+msgstr "Al-Farabi Business School"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"An uploaded file is already attached. Leave the upload field empty to keep "
+"it."
+msgstr ""
+"An uploaded file is already attached. Leave the upload field empty to keep "
+"it."
+
+#: lms/djangoapps/news/sdg4
+msgid "Annotation (up to 500 characters)"
+msgstr "Annotation (up to 500 characters)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose either an uploaded file or an existing URL."
+msgstr "Choose either an uploaded file or an existing URL."
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose either uploaded subtitles or a subtitles URL."
+msgstr "Choose either uploaded subtitles or a subtitles URL."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Complete all three courses. Add PDF lectures or captioned videos in the "
+"required order. Only published pages are public."
+msgstr ""
+"Complete all three courses. Add PDF lectures or captioned videos in the "
+"required order. Only published pages are public."
+
+#: lms/djangoapps/news/sdg4
+msgid "Course type"
+msgstr "Course type"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course {number}"
+msgstr "Course {number}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Creative Commons license"
+msgstr "Creative Commons license"
+
+#: lms/djangoapps/news/sdg4
+msgid "Current photo"
+msgstr "Current photo"
+
+#: lms/djangoapps/news/sdg4
+msgid "Department"
+msgstr "Department"
+
+#: lms/djangoapps/news/sdg4
+msgid "Discipline"
+msgstr "Discipline"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download PDF"
+msgstr "Download PDF"
+
+#: lms/djangoapps/news/sdg4
+msgid "Downloads"
+msgstr "Downloads"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft"
+msgstr "Draft"
+
+#: lms/djangoapps/news/sdg4
+msgid "E-learning resources — {name}"
+msgstr "E-learning resources — {name}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit resources"
+msgstr "Edit resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Education open to everyone"
+msgstr "Education open to everyone"
+
+#: lms/djangoapps/news/sdg4
+msgid "Educational programme code"
+msgstr "Educational programme code"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter the video duration."
+msgstr "Enter the video duration."
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing file URL or YouTube link"
+msgstr "Existing file URL or YouTube link"
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing subtitles URL"
+msgstr "Existing subtitles URL"
+
+#: lms/djangoapps/news/sdg4
+msgid "Explore open educational resources"
+msgstr "Explore open educational resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculties"
+msgstr "Faculties"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty"
+msgstr "Faculty"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Biology and Biotechnology"
+msgstr "Faculty of Biology and Biotechnology"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Chemistry and Chemical Technology"
+msgstr "Faculty of Chemistry and Chemical Technology"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Geography and Environmental Sciences"
+msgstr "Faculty of Geography and Environmental Sciences"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of History"
+msgstr "Faculty of History"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Information Technology and Artificial Intelligence"
+msgstr "Faculty of Information Technology and Artificial Intelligence"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of International Relations"
+msgstr "Faculty of International Relations"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Journalism"
+msgstr "Faculty of Journalism"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Law"
+msgstr "Faculty of Law"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Mechanics and Mathematics"
+msgstr "Faculty of Mechanics and Mathematics"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Medicine and Health Care"
+msgstr "Faculty of Medicine and Health Care"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Oriental Studies"
+msgstr "Faculty of Oriental Studies"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Philology"
+msgstr "Faculty of Philology"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Philosophy and Political Science"
+msgstr "Faculty of Philosophy and Political Science"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Physics and Technology"
+msgstr "Faculty of Physics and Technology"
+
+#: lms/djangoapps/news/sdg4
+msgid "Faculty of Pre-Higher Education"
+msgstr "Faculty of Pre-Higher Education"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"For university YouTube videos, confirm that subtitles are available. For "
+"uploaded videos, attach a WebVTT file. Duration is entered in seconds."
+msgstr ""
+"For university YouTube videos, confirm that subtitles are available. For "
+"uploaded videos, attach a WebVTT file. Duration is entered in seconds."
+
+#: lms/djangoapps/news/sdg4
+msgid "Full name"
+msgstr "Full name"
+
+#: lms/djangoapps/news/sdg4
+msgid "Higher School of Economics and Business"
+msgstr "Higher School of Economics and Business"
+
+#: lms/djangoapps/news/sdg4
+msgid "I verified that this university YouTube video has subtitles."
+msgstr "I verified that this university YouTube video has subtitles."
+
+#: lms/djangoapps/news/sdg4
+msgid "Language of materials"
+msgstr "Language of materials"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Lecture and video courses from Al-Farabi KazNU teachers. Free access without"
+" registration."
+msgstr ""
+"Lecture and video courses from Al-Farabi KazNU teachers. Free access without"
+" registration."
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture course"
+msgstr "Lecture course"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture course: “{topic}”"
+msgstr "Lecture course: “{topic}”"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lecture materials must be PDF files."
+msgstr "Lecture materials must be PDF files."
+
+#: lms/djangoapps/news/sdg4
+msgid "Lesson"
+msgstr "Lesson"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lesson title"
+msgstr "Lesson title"
+
+#: lms/djangoapps/news/sdg4
+msgid "Lessons in display order"
+msgstr "Lessons in display order"
+
+#: lms/djangoapps/news/sdg4
+msgid "MOOC link (optional)"
+msgstr "MOOC link (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Manage SDG 4 resources"
+msgstr "Manage SDG 4 resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Number of lessons"
+msgstr "Number of lessons"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open PDF"
+msgstr "Open PDF"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open educational resources"
+msgstr "Open educational resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open public page"
+msgstr "Open public page"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open video"
+msgstr "Open video"
+
+#: lms/djangoapps/news/sdg4
+msgid "PDF or video file"
+msgstr "PDF or video file"
+
+#: lms/djangoapps/news/sdg4
+msgid "Permanent address"
+msgstr "Permanent address"
+
+#: lms/djangoapps/news/sdg4
+msgid "Permanent link for the application"
+msgstr "Permanent link for the application"
+
+#: lms/djangoapps/news/sdg4
+msgid "Photo (optional)"
+msgstr "Photo (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Please correct the errors below. Reselect uploaded files before submitting "
+"again."
+msgstr ""
+"Please correct the errors below. Reselect uploaded files before submitting "
+"again."
+
+#: lms/djangoapps/news/sdg4
+msgid "Position"
+msgstr "Position"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication date"
+msgstr "Publication date"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publish this page"
+msgstr "Publish this page"
+
+#: lms/djangoapps/news/sdg4
+msgid "Published"
+msgstr "Published"
+
+#: lms/djangoapps/news/sdg4
+msgid "Resources for this faculty have not been published yet."
+msgstr "Resources for this faculty have not been published yet."
+
+#: lms/djangoapps/news/sdg4
+msgid "SDG 4: Quality Education"
+msgstr "SDG 4: Quality Education"
+
+#: lms/djangoapps/news/sdg4
+msgid "Save resources"
+msgstr "Save resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Subtitles (.vtt)"
+msgstr "Subtitles (.vtt)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Subtitles are required for each video."
+msgstr "Subtitles are required for each video."
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher profile"
+msgstr "Teacher profile"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher's MOOC on Open KazNU"
+msgstr "Teacher's MOOC on Open KazNU"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers"
+msgstr "Teachers"
+
+#: lms/djangoapps/news/sdg4
+msgid "The file exceeds the configured upload limit."
+msgstr "The file exceeds the configured upload limit."
+
+#: lms/djangoapps/news/sdg4
+msgid "The file type does not match this material."
+msgstr "The file type does not match this material."
+
+#: lms/djangoapps/news/sdg4
+msgid "This page was edited elsewhere. Reload it before saving."
+msgstr "This page was edited elsewhere. Reload it before saving."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"This section is part of NJSC Al-Farabi KazNU's contribution to UN "
+"Sustainable Development Goal 4, Quality Education. The University offers "
+"open access to its faculty's e-learning resources — lecture courses and "
+"video courses in Kazakh, Russian and English. Students, schoolchildren, "
+"professionals and lecturers from other universities can learn at their own "
+"pace, from anywhere in the world. In this way the University contributes to "
+"the following SDG 4 targets:"
+msgstr ""
+"This section is part of NJSC Al-Farabi KazNU's contribution to UN "
+"Sustainable Development Goal 4, Quality Education. The University offers "
+"open access to its faculty's e-learning resources — lecture courses and "
+"video courses in Kazakh, Russian and English. Students, schoolchildren, "
+"professionals and lecturers from other universities can learn at their own "
+"pace, from anywhere in the world. In this way the University contributes to "
+"the following SDG 4 targets:"
+
+#: lms/djangoapps/news/sdg4
+msgid "This title prefix is reserved for SDG 4 resources."
+msgstr "This title prefix is reserved for SDG 4 resources."
+
+#: lms/djangoapps/news/sdg4
+msgid "Topic"
+msgstr "Topic"
+
+#: lms/djangoapps/news/sdg4
+msgid "Total video duration"
+msgstr "Total video duration"
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload WebVTT subtitles starting with WEBVTT."
+msgstr "Upload WebVTT subtitles starting with WEBVTT."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a JPEG, PNG or WebP image up to 10 MB."
+msgstr "Upload a JPEG, PNG or WebP image up to 10 MB."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a valid PDF file."
+msgstr "Upload a valid PDF file."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a site-relative file URL or an HTTPS URL."
+msgstr "Use a site-relative file URL or an HTTPS URL."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Use a surname and initials in Latin letters. The address is fixed after the "
+"first save."
+msgstr ""
+"Use a surname and initials in Latin letters. The address is fixed after the "
+"first save."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a valid university YouTube video and confirm its subtitles."
+msgstr "Use a valid university YouTube video and confirm its subtitles."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use an MP4, WebM or OGV video URL."
+msgstr "Use an MP4, WebM or OGV video URL."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use university-hosted video or the university YouTube channel."
+msgstr "Use university-hosted video or the university YouTube channel."
+
+#: lms/djangoapps/news/sdg4
+msgid "Video course"
+msgstr "Video course"
+
+#: lms/djangoapps/news/sdg4
+msgid "Video course: “{topic}”"
+msgstr "Video course: “{topic}”"
+
+#: lms/djangoapps/news/sdg4
+msgid "Video duration in seconds"
+msgstr "Video duration in seconds"
+
+#: lms/djangoapps/news/sdg4
+msgid "View PDF on this page"
+msgstr "View PDF on this page"
+
+#: lms/djangoapps/news/sdg4
+msgid "Views"
+msgstr "Views"
+
+#: lms/djangoapps/news/sdg4
+msgid "{minutes} min {seconds} sec"
+msgstr "{minutes} min {seconds} sec"
+
+#: lms/templates/news/sdg4/index.html lms/templates/news/sdg4/faculty.html lms/templates/news/sdg4/teacher.html
+msgctxt "SDG 4 showcase"
+msgid "Faculties"
+msgstr "Faculties"
