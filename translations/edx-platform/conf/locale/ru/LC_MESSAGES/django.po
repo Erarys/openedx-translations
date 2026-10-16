@@ -21239,3 +21239,158 @@ msgstr ""
 #: lms/djangoapps/news/sdg4
 msgid "Upload PDF files"
 msgstr "Загрузить PDF-файлы"
+
+#: lms/djangoapps/news/sdg4
+msgid "A permanent link is created automatically and will not change."
+msgstr "Постоянная ссылка создаётся автоматически и не меняется."
+
+#: lms/djangoapps/news/sdg4
+msgid "About the initiative"
+msgstr "Об инициативе"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Add a link or upload a presentation to publish. You can also save a draft."
+msgstr ""
+"Для публикации добавьте ссылку или загрузите презентацию. Также можно "
+"сохранить черновик."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add material"
+msgstr "Добавить материал"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add translations later (KZ / EN)"
+msgstr "Добавить переводы позже (KZ / EN)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Additional teacher details (optional)"
+msgstr "Дополнительные сведения о преподавателе (необязательно)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Al-Farabi KazNU"
+msgstr "КазНУ имени аль-Фараби"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course or material link"
+msgstr "Ссылка на курс или материал"
+
+#: lms/djangoapps/news/sdg4
+msgid "Courses and materials"
+msgstr "Курсы и материалы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download presentation"
+msgstr "Скачать презентацию"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft saved. You can return to it and continue later."
+msgstr "Черновик сохранён. К нему можно вернуться и продолжить позже."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Enter the teacher's name and faculty, then add a link or a presentation. "
+"Everything else is optional."
+msgstr ""
+"Укажите ФИО преподавателя и факультет, затем добавьте ссылку или "
+"презентацию. Всё остальное — по желанию."
+
+#: lms/djangoapps/news/sdg4
+msgid "Equal access to education"
+msgstr "Равный доступ к образованию"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Existing presentations and courses are kept. New files will be added to "
+"them."
+msgstr ""
+"Ранее загруженные презентации и курсы сохраняются. Новые файлы будут "
+"добавлены к ним."
+
+#: lms/djangoapps/news/sdg4
+msgid "Explore courses and materials"
+msgstr "Смотреть курсы и материалы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Knowledge without borders"
+msgstr "Знания без границ"
+
+#: lms/djangoapps/news/sdg4
+msgid "Learn at your own pace"
+msgstr "Учитесь в своём темпе"
+
+#: lms/djangoapps/news/sdg4
+msgid "Link or presentation"
+msgstr "Ссылка или презентация"
+
+#: lms/djangoapps/news/sdg4
+msgid "Link title (optional)"
+msgstr "Название ссылки (необязательно)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials found: {count}"
+msgstr "Найдено материалов: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials will appear here after teachers publish them."
+msgstr "Материалы появятся здесь после публикации преподавателями."
+
+#: lms/djangoapps/news/sdg4
+msgid "No materials match your search."
+msgstr "По вашему запросу материалы не найдены."
+
+#: lms/djangoapps/news/sdg4
+msgid "Open course or material"
+msgstr "Открыть курс или материал"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open material"
+msgstr "Открыть материал"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"PDF, PPT or PPTX. You can select several files at once; titles come from "
+"file names."
+msgstr ""
+"PDF, PPT или PPTX. Можно выбрать несколько файлов сразу; названия возьмём из"
+" имён файлов."
+
+#: lms/djangoapps/news/sdg4
+msgid "Previously added materials"
+msgstr "Ранее добавленные материалы"
+
+#: lms/djangoapps/news/sdg4
+msgid "SDG 4 targets"
+msgstr "Задачи ЦУР 4"
+
+#: lms/djangoapps/news/sdg4
+msgid "Search by title or teacher"
+msgstr "Поиск по названию или преподавателю"
+
+#: lms/djangoapps/news/sdg4
+msgid "Skills for the future"
+msgstr "Навыки для будущего"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher"
+msgstr "Преподаватель"
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a valid PowerPoint presentation."
+msgstr "Загрузите корректную презентацию PowerPoint."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload presentations"
+msgstr "Загрузить презентации"
+
+#: lms/djangoapps/news/sdg4
+msgid "You can upload up to 200 presentations per teacher."
+msgstr "Можно загрузить не более 200 презентаций для одного преподавателя."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"You do not need to create a course. Paste a link to any course or "
+"educational material, or select presentation files."
+msgstr ""
+"Создавать курс не нужно. Вставьте ссылку на курс или учебный материал либо "
+"выберите файлы презентаций."
