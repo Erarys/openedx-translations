@@ -24683,3 +24683,67 @@ msgstr "{minutes} min {seconds} sec"
 msgctxt "SDG 4 showcase"
 msgid "Faculties"
 msgstr "Faculties"
+
+#: lms/djangoapps/news/sdg4
+msgid "A course can contain at most 200 lessons."
+msgstr "A course can contain at most 200 lessons."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add Kazakh and English translations (optional)"
+msgstr "Add Kazakh and English translations (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course description and settings"
+msgstr "Course description and settings"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft saved. You can continue editing or return later."
+msgstr "Draft saved. You can continue editing or return later."
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing files, links and individual lessons"
+msgstr "Existing files, links and individual lessons"
+
+#: lms/djangoapps/news/sdg4
+msgid "Position, department, photo and other details"
+msgstr "Position, department, photo and other details"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publish"
+msgstr "Publish"
+
+#: lms/djangoapps/news/sdg4
+msgid "Save draft"
+msgstr "Save draft"
+
+#: lms/djangoapps/news/sdg4
+msgid "Select several files at once. Lesson titles will use the file names."
+msgstr "Select several files at once. Lesson titles will use the file names."
+
+#: lms/djangoapps/news/sdg4
+msgid "Select your faculty"
+msgstr "Select your faculty"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Start with the Russian version. Save a draft at any time and add "
+"translations later."
+msgstr ""
+"Start with the Russian version. Save a draft at any time and add "
+"translations later."
+
+#: lms/djangoapps/news/sdg4
+msgid "The permanent link is created automatically and will not change."
+msgstr "The permanent link is created automatically and will not change."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"To publish, complete all three courses in Russian and add their materials. "
+"Translations are optional."
+msgstr ""
+"To publish, complete all three courses in Russian and add their materials. "
+"Translations are optional."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload PDF files"
+msgstr "Upload PDF files"

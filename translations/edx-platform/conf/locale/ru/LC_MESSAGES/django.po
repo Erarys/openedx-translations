@@ -21173,3 +21173,69 @@ msgstr "{minutes} мин {seconds} с"
 msgctxt "SDG 4 showcase"
 msgid "Faculties"
 msgstr "Факультеты"
+
+#: lms/djangoapps/news/sdg4
+msgid "A course can contain at most 200 lessons."
+msgstr "В одном курсе может быть не более 200 занятий."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add Kazakh and English translations (optional)"
+msgstr "Добавить переводы на казахский и английский (необязательно)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course description and settings"
+msgstr "Описание и настройки курса"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft saved. You can continue editing or return later."
+msgstr "Черновик сохранён. Можно продолжить заполнение или вернуться позже."
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing files, links and individual lessons"
+msgstr "Загруженные файлы, ссылки и отдельные занятия"
+
+#: lms/djangoapps/news/sdg4
+msgid "Position, department, photo and other details"
+msgstr "Должность, кафедра, фото и другие сведения"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publish"
+msgstr "Опубликовать"
+
+#: lms/djangoapps/news/sdg4
+msgid "Save draft"
+msgstr "Сохранить черновик"
+
+#: lms/djangoapps/news/sdg4
+msgid "Select several files at once. Lesson titles will use the file names."
+msgstr ""
+"Можно выбрать несколько файлов сразу. Названия занятий заполнятся из имён "
+"файлов."
+
+#: lms/djangoapps/news/sdg4
+msgid "Select your faculty"
+msgstr "Выберите свой факультет"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Start with the Russian version. Save a draft at any time and add "
+"translations later."
+msgstr ""
+"Начните с русской версии. Сохраняйте черновик в любой момент, переводы можно"
+" добавить позже."
+
+#: lms/djangoapps/news/sdg4
+msgid "The permanent link is created automatically and will not change."
+msgstr "Постоянная ссылка создаётся автоматически и не изменится."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"To publish, complete all three courses in Russian and add their materials. "
+"Translations are optional."
+msgstr ""
+"Для публикации заполните все три курса на русском и добавьте материалы. "
+"Переводы необязательны."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload PDF files"
+msgstr "Загрузить PDF-файлы"

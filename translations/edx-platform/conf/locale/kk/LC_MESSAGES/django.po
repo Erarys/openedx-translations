@@ -28546,3 +28546,69 @@ msgstr "{minutes} мин {seconds} с"
 msgctxt "SDG 4 showcase"
 msgid "Faculties"
 msgstr "Факультеттер"
+
+#: lms/djangoapps/news/sdg4
+msgid "A course can contain at most 200 lessons."
+msgstr "Бір курста 200-ден артық сабақ болмауы керек."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add Kazakh and English translations (optional)"
+msgstr "Қазақша және ағылшынша аудармаларды қосу (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Course description and settings"
+msgstr "Курстың сипаттамасы мен баптаулары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Draft saved. You can continue editing or return later."
+msgstr "Жоба сақталды. Толтыруды жалғастыруға немесе кейін оралуға болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Existing files, links and individual lessons"
+msgstr "Жүктелген файлдар, сілтемелер және жеке сабақтар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Position, department, photo and other details"
+msgstr "Лауазым, кафедра, фото және басқа мәліметтер"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publish"
+msgstr "Жариялау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Save draft"
+msgstr "Жобаны сақтау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Select several files at once. Lesson titles will use the file names."
+msgstr ""
+"Бірнеше файлды бірден таңдауға болады. Сабақ атаулары файл атауларынан "
+"толтырылады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Select your faculty"
+msgstr "Өз факультетіңізді таңдаңыз"
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"Start with the Russian version. Save a draft at any time and add "
+"translations later."
+msgstr ""
+"Орысша нұсқадан бастаңыз. Жобаны кез келген уақытта сақтап, аудармаларды "
+"кейін қоса аласыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The permanent link is created automatically and will not change."
+msgstr "Тұрақты сілтеме автоматты түрде жасалады және өзгермейді."
+
+#: lms/djangoapps/news/sdg4
+msgid ""
+"To publish, complete all three courses in Russian and add their materials. "
+"Translations are optional."
+msgstr ""
+"Жариялау үшін үш курсты да орыс тілінде толтырып, материалдарды қосыңыз. "
+"Аудармалар міндетті емес."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload PDF files"
+msgstr "PDF файлдарын жүктеу"
