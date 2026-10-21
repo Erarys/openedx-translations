@@ -210,7 +210,7 @@ msgstr ""
 "Language: kk\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-#Мой переводы
+# Менің аудармаларым
 msgid "Stay updated with the latest news and announcements"
 msgstr "Соңғы жаңалықтар мен хабарландырулардан хабардар болыңыз"
 
@@ -797,7 +797,7 @@ msgstr "Тегін оқу"
 msgid "Many courses are available for free, making education accessible to everyone."
 msgstr "Көптеген курстар тегін қолжетімді, бұл білімді баршаға қолжетімді етеді."
 
-#Переводы openedx
+# Open edX аудармалары
 #: cms/djangoapps/api/v1/serializers/course_runs.py:49
 msgid "Course team user does not exist"
 msgstr "Курс командасының пайдаланушысы жоқ"
@@ -28767,3 +28767,311 @@ msgid ""
 msgstr ""
 "Курс құрудың қажеті жоқ. Курсқа немесе оқу материалына сілтеме енгізіңіз не "
 "презентация файлдарын таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "A cover is already uploaded. Choose another image only if you want to replace it."
+msgstr "Мұқаба жүктелген. Оны ауыстырғыңыз келсе ғана басқа суретті таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "A text block cannot contain a file."
+msgstr "Мәтін блогында файл болмауы керек."
+
+#: lms/djangoapps/news/sdg4
+msgid "About the project"
+msgstr "Жоба туралы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add an article block, a link, or a presentation to publish. You can also save a draft."
+msgstr "Жариялау үшін мақала блогын, сілтемені немесе презентацияны қосыңыз. Материалды жоба ретінде де сақтауға болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add article block"
+msgstr "Мақала блогын қосу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Approve and publish"
+msgstr "Мақұлдау және жариялау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article"
+msgstr "Мақала"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article block"
+msgstr "Мақала блогы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article content"
+msgstr "Мақала мазмұны"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article cover"
+msgstr "Мақала мұқабасы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article cover (optional)"
+msgstr "Мақала мұқабасы (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article title (optional)"
+msgstr "Мақала атауы (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Articles, lectures and practical materials from the university community — openly and in one place."
+msgstr "Университет қауымдастығының мақалалары, дәрістері және практикалық материалдары — ашық әрі бір жерде."
+
+#: lms/djangoapps/news/sdg4
+msgid "Attached materials"
+msgstr "Тіркелген материалдар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Block type"
+msgstr "Блок түрі"
+
+#: lms/djangoapps/news/sdg4
+msgid "Build an article from text, images, presentations, audio and video. Blocks are displayed in the order shown below."
+msgstr "Мақаланы мәтіннен, суреттерден, презентациялардан, аудио және видеодан құрастырыңыз. Блоктар төменде көрсетілген ретпен көрсетіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Caption (optional)"
+msgstr "Сипаттама (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose a file for this block."
+msgstr "Осы блок үшін файл таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose a file that matches the selected block type."
+msgstr "Таңдалған блок түріне сәйкес файлды таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Create a publication"
+msgstr "Жарияланым жасау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Create materials, save drafts and follow their moderation status."
+msgstr "Материалдар жасаңыз, жобаларды сақтаңыз және модерация күйін бақылаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Current file"
+msgstr "Ағымдағы файл"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download audio"
+msgstr "Аудионы жүктеп алу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download video"
+msgstr "Видеоны жүктеп алу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit article"
+msgstr "Мақаланы өңдеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit publication"
+msgstr "Жарияланымды өңдеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Editorial workspace"
+msgstr "Редактор панелі"
+
+#: lms/djangoapps/news/sdg4
+msgid "education"
+msgstr "білім"
+
+#: lms/djangoapps/news/sdg4
+msgid "Educational materials by {name}"
+msgstr "{name} авторының оқу материалдары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter text for this block."
+msgstr "Осы блоктың мәтінін енгізіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Every community member can submit a material. It appears in the public feed after administrator approval."
+msgstr "Қауымдастықтың әр мүшесі материал жібере алады. Ол әкімші мақұлдағаннан кейін жалпы лентада пайда болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "External link or quick presentation upload"
+msgstr "Сыртқы сілтеме немесе презентацияны жылдам жүктеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "File title (optional)"
+msgstr "Файл атауы (міндетті емес)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Fresh from Open KazNU"
+msgstr "Open KazNU-дағы жаңалықтар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Ideas, experience and knowledge for quality education"
+msgstr "Сапалы білімге арналған идеялар, тәжірибе және білім"
+
+#: lms/djangoapps/news/sdg4
+msgid "Image"
+msgstr "Сурет"
+
+#: lms/djangoapps/news/sdg4
+msgid "Material"
+msgstr "Материал"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials will appear here after authors submit them and an administrator approves publication."
+msgstr "Авторлар жіберіп, әкімші мақұлдағаннан кейін материалдар осында пайда болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Moderation queue"
+msgstr "Модерация кезегі"
+
+#: lms/djangoapps/news/sdg4
+msgid "Move block down"
+msgstr "Блокты төмен жылжыту"
+
+#: lms/djangoapps/news/sdg4
+msgid "Move block up"
+msgstr "Блокты жоғары жылжыту"
+
+#: lms/djangoapps/news/sdg4
+msgid "My publications"
+msgstr "Менің жарияланымдарым"
+
+#: lms/djangoapps/news/sdg4
+msgid "No publications match your search."
+msgstr "Сұрауыңыз бойынша жарияланымдар табылмады."
+
+#: lms/djangoapps/news/sdg4
+msgid "No publications yet"
+msgstr "Әзірге жарияланымдар жоқ"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open presentation"
+msgstr "Презентацияны ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Pending publications are shown first."
+msgstr "Тексеруді күтіп тұрған жарияланымдар алдымен көрсетіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Pending review"
+msgstr "Модерацияда"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation"
+msgstr "Презентация"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication information"
+msgstr "Жарияланым туралы ақпарат"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publications"
+msgstr "Жарияланымдар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publications found: {count}"
+msgstr "Табылған жарияланымдар: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Quality"
+msgstr "Сапалы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Quality through moderation"
+msgstr "Модерация арқылы сапа"
+
+#: lms/djangoapps/news/sdg4
+msgid "Read publications"
+msgstr "Жарияланымдарды оқу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Reading time"
+msgstr "Оқу уақыты"
+
+#: lms/djangoapps/news/sdg4
+msgid "Review submitted publications and decide what appears in the public feed."
+msgstr "Жіберілген жарияланымдарды тексеріп, жалпы лентада не көрсетілетінін таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Save published changes"
+msgstr "Жарияланған өзгерістерді сақтау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Search publications"
+msgstr "Жарияланымдарды іздеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Start with an article and add text, images, presentations, audio or video."
+msgstr "Мақала жасап, мәтін, суреттер, презентациялар, аудио немесе видео қосыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Submit for moderation"
+msgstr "Модерацияға жіберу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Sustainable Development Goal 4"
+msgstr "Тұрақты даму мақсаты 4"
+
+#: lms/djangoapps/news/sdg4
+msgid "The article block is no longer current. Reload the page."
+msgstr "Бұл мақала блогы өзгерген. Бетті жаңартыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication feed is being prepared"
+msgstr "Жарияланымдар лентасы дайындалуда"
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been sent for moderation. It will appear in the public feed after administrator approval."
+msgstr "Жарияланым модерацияға жіберілді. Ол әкімші мақұлдағаннан кейін жалпы лентада пайда болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded media file is not valid."
+msgstr "Жүктелген медиафайл жарамсыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Title, author or keyword"
+msgstr "Атауы, авторы немесе кілт сөз"
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a JPEG, PNG or WebP cover up to 20 MB."
+msgstr "20 МБ-қа дейінгі JPEG, PNG немесе WebP мұқабасын жүктеңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a valid image file."
+msgstr "Дұрыс сурет файлын жүктеңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Write the article text here…"
+msgstr "Мақала мәтінін осында жазыңыз…"
+
+#: lms/djangoapps/news/sdg4
+msgid "You can add and reorder as many blocks as the configured server upload limits allow. Text is stored safely as plain text."
+msgstr "Сервердің жүктеу шектеулері рұқсат еткенше блоктарды қосып, орнын ауыстыруға болады. Мәтін HTML белгілеуінсіз қауіпсіз сақталады."
+
+#: lms/djangoapps/news/sdg4
+msgid "{age} ago"
+msgstr "{age} бұрын"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} materials"
+msgstr "Материалдар: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} minute"
+msgid_plural "{count} minutes"
+msgstr[0] "{count} минут"
+msgstr[1] "{count} минут"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} view"
+msgid_plural "{count} views"
+msgstr[0] "{count} қаралым"
+msgstr[1] "{count} қаралым"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} waiting for review"
+msgstr "Тексеруді күтіп тұрғандар: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "{minutes} min"
+msgstr "{minutes} мин"

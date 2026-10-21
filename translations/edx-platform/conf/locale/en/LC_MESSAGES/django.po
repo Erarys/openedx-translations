@@ -24905,3 +24905,311 @@ msgid ""
 msgstr ""
 "You do not need to create a course. Paste a link to any course or "
 "educational material, or select presentation files."
+
+#: lms/djangoapps/news/sdg4
+msgid "A cover is already uploaded. Choose another image only if you want to replace it."
+msgstr "A cover is already uploaded. Choose another image only if you want to replace it."
+
+#: lms/djangoapps/news/sdg4
+msgid "A text block cannot contain a file."
+msgstr "A text block cannot contain a file."
+
+#: lms/djangoapps/news/sdg4
+msgid "About the project"
+msgstr "About the project"
+
+#: lms/djangoapps/news/sdg4
+msgid "Add an article block, a link, or a presentation to publish. You can also save a draft."
+msgstr "Add an article block, a link, or a presentation to publish. You can also save a draft."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add article block"
+msgstr "Add article block"
+
+#: lms/djangoapps/news/sdg4
+msgid "Approve and publish"
+msgstr "Approve and publish"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article"
+msgstr "Article"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article block"
+msgstr "Article block"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article content"
+msgstr "Article content"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article cover"
+msgstr "Article cover"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article cover (optional)"
+msgstr "Article cover (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Article title (optional)"
+msgstr "Article title (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Articles, lectures and practical materials from the university community — openly and in one place."
+msgstr "Articles, lectures and practical materials from the university community — openly and in one place."
+
+#: lms/djangoapps/news/sdg4
+msgid "Attached materials"
+msgstr "Attached materials"
+
+#: lms/djangoapps/news/sdg4
+msgid "Block type"
+msgstr "Block type"
+
+#: lms/djangoapps/news/sdg4
+msgid "Build an article from text, images, presentations, audio and video. Blocks are displayed in the order shown below."
+msgstr "Build an article from text, images, presentations, audio and video. Blocks are displayed in the order shown below."
+
+#: lms/djangoapps/news/sdg4
+msgid "Caption (optional)"
+msgstr "Caption (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose a file for this block."
+msgstr "Choose a file for this block."
+
+#: lms/djangoapps/news/sdg4
+msgid "Choose a file that matches the selected block type."
+msgstr "Choose a file that matches the selected block type."
+
+#: lms/djangoapps/news/sdg4
+msgid "Create a publication"
+msgstr "Create a publication"
+
+#: lms/djangoapps/news/sdg4
+msgid "Create materials, save drafts and follow their moderation status."
+msgstr "Create materials, save drafts and follow their moderation status."
+
+#: lms/djangoapps/news/sdg4
+msgid "Current file"
+msgstr "Current file"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download audio"
+msgstr "Download audio"
+
+#: lms/djangoapps/news/sdg4
+msgid "Download video"
+msgstr "Download video"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit article"
+msgstr "Edit article"
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit publication"
+msgstr "Edit publication"
+
+#: lms/djangoapps/news/sdg4
+msgid "Editorial workspace"
+msgstr "Editorial workspace"
+
+#: lms/djangoapps/news/sdg4
+msgid "education"
+msgstr "education"
+
+#: lms/djangoapps/news/sdg4
+msgid "Educational materials by {name}"
+msgstr "Educational materials by {name}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter text for this block."
+msgstr "Enter text for this block."
+
+#: lms/djangoapps/news/sdg4
+msgid "Every community member can submit a material. It appears in the public feed after administrator approval."
+msgstr "Every community member can submit a material. It appears in the public feed after administrator approval."
+
+#: lms/djangoapps/news/sdg4
+msgid "External link or quick presentation upload"
+msgstr "External link or quick presentation upload"
+
+#: lms/djangoapps/news/sdg4
+msgid "File title (optional)"
+msgstr "File title (optional)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Fresh from Open KazNU"
+msgstr "Fresh from Open KazNU"
+
+#: lms/djangoapps/news/sdg4
+msgid "Ideas, experience and knowledge for quality education"
+msgstr "Ideas, experience and knowledge for quality education"
+
+#: lms/djangoapps/news/sdg4
+msgid "Image"
+msgstr "Image"
+
+#: lms/djangoapps/news/sdg4
+msgid "Material"
+msgstr "Material"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials will appear here after authors submit them and an administrator approves publication."
+msgstr "Materials will appear here after authors submit them and an administrator approves publication."
+
+#: lms/djangoapps/news/sdg4
+msgid "Moderation queue"
+msgstr "Moderation queue"
+
+#: lms/djangoapps/news/sdg4
+msgid "Move block down"
+msgstr "Move block down"
+
+#: lms/djangoapps/news/sdg4
+msgid "Move block up"
+msgstr "Move block up"
+
+#: lms/djangoapps/news/sdg4
+msgid "My publications"
+msgstr "My publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "No publications match your search."
+msgstr "No publications match your search."
+
+#: lms/djangoapps/news/sdg4
+msgid "No publications yet"
+msgstr "No publications yet"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open presentation"
+msgstr "Open presentation"
+
+#: lms/djangoapps/news/sdg4
+msgid "Pending publications are shown first."
+msgstr "Pending publications are shown first."
+
+#: lms/djangoapps/news/sdg4
+msgid "Pending review"
+msgstr "Pending review"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation"
+msgstr "Presentation"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication information"
+msgstr "Publication information"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publications"
+msgstr "Publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publications found: {count}"
+msgstr "Publications found: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Quality"
+msgstr "Quality"
+
+#: lms/djangoapps/news/sdg4
+msgid "Quality through moderation"
+msgstr "Quality through moderation"
+
+#: lms/djangoapps/news/sdg4
+msgid "Read publications"
+msgstr "Read publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "Reading time"
+msgstr "Reading time"
+
+#: lms/djangoapps/news/sdg4
+msgid "Review submitted publications and decide what appears in the public feed."
+msgstr "Review submitted publications and decide what appears in the public feed."
+
+#: lms/djangoapps/news/sdg4
+msgid "Save published changes"
+msgstr "Save published changes"
+
+#: lms/djangoapps/news/sdg4
+msgid "Search publications"
+msgstr "Search publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "Start with an article and add text, images, presentations, audio or video."
+msgstr "Start with an article and add text, images, presentations, audio or video."
+
+#: lms/djangoapps/news/sdg4
+msgid "Submit for moderation"
+msgstr "Submit for moderation"
+
+#: lms/djangoapps/news/sdg4
+msgid "Sustainable Development Goal 4"
+msgstr "Sustainable Development Goal 4"
+
+#: lms/djangoapps/news/sdg4
+msgid "The article block is no longer current. Reload the page."
+msgstr "The article block is no longer current. Reload the page."
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication feed is being prepared"
+msgstr "The publication feed is being prepared"
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been sent for moderation. It will appear in the public feed after administrator approval."
+msgstr "The publication has been sent for moderation. It will appear in the public feed after administrator approval."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded media file is not valid."
+msgstr "The uploaded media file is not valid."
+
+#: lms/djangoapps/news/sdg4
+msgid "Title, author or keyword"
+msgstr "Title, author or keyword"
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a JPEG, PNG or WebP cover up to 20 MB."
+msgstr "Upload a JPEG, PNG or WebP cover up to 20 MB."
+
+#: lms/djangoapps/news/sdg4
+msgid "Upload a valid image file."
+msgstr "Upload a valid image file."
+
+#: lms/djangoapps/news/sdg4
+msgid "Write the article text here…"
+msgstr "Write the article text here…"
+
+#: lms/djangoapps/news/sdg4
+msgid "You can add and reorder as many blocks as the configured server upload limits allow. Text is stored safely as plain text."
+msgstr "You can add and reorder as many blocks as the configured server upload limits allow. Text is stored safely as plain text."
+
+#: lms/djangoapps/news/sdg4
+msgid "{age} ago"
+msgstr "{age} ago"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} materials"
+msgstr "{count} materials"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} minute"
+msgid_plural "{count} minutes"
+msgstr[0] "{count} minute"
+msgstr[1] "{count} minutes"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} view"
+msgid_plural "{count} views"
+msgstr[0] "{count} view"
+msgstr[1] "{count} views"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} waiting for review"
+msgstr "{count} waiting for review"
+
+#: lms/djangoapps/news/sdg4
+msgid "{minutes} min"
+msgstr "{minutes} min"
