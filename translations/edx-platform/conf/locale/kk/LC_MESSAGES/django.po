@@ -29216,3 +29216,7 @@ msgstr "Логиндер немесе электрондық пошта меке
 #: lms/djangoapps/news/sdg4
 msgid "Enter up to 50 accounts, one per line or separated by commas."
 msgstr "50-ге дейін тіркелгіні енгізіңіз: әр жолға біреуден немесе үтірмен бөліп."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation preview is temporarily unavailable. Download the original file to view it."
+msgstr "Презентацияны алдын ала қарау уақытша қолжетімсіз. Оны ашу үшін бастапқы файлды жүктеп алыңыз."

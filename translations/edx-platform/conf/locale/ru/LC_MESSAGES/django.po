@@ -21847,3 +21847,7 @@ msgstr "Логины или адреса электронной почты"
 #: lms/djangoapps/news/sdg4
 msgid "Enter up to 50 accounts, one per line or separated by commas."
 msgstr "Укажите до 50 аккаунтов: по одному в строке или через запятую."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation preview is temporarily unavailable. Download the original file to view it."
+msgstr "Предпросмотр презентации временно недоступен. Скачайте исходный файл, чтобы открыть его."

@@ -25354,3 +25354,7 @@ msgstr "Logins or email addresses"
 #: lms/djangoapps/news/sdg4
 msgid "Enter up to 50 accounts, one per line or separated by commas."
 msgstr "Enter up to 50 accounts, one per line or separated by commas."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation preview is temporarily unavailable. Download the original file to view it."
+msgstr "Presentation preview is temporarily unavailable. Download the original file to view it."
