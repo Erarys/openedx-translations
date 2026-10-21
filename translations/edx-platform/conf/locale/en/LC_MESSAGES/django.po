@@ -25213,3 +25213,107 @@ msgstr "{count} waiting for review"
 #: lms/djangoapps/news/sdg4
 msgid "{minutes} min"
 msgstr "{minutes} min"
+
+#: lms/djangoapps/news/sdg4
+msgid "Moderation and access"
+msgstr "Moderation and access"
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been deleted."
+msgstr "The publication has been deleted."
+
+#: lms/djangoapps/news/sdg4
+msgid "Administration"
+msgstr "Administration"
+
+#: lms/djangoapps/news/sdg4
+msgid "Review submitted publications or allow a trusted author to publish without waiting for approval."
+msgstr "Review submitted publications or allow a trusted author to publish without waiting for approval."
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been approved and published."
+msgstr "The publication has been approved and published."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been granted."
+msgstr "Direct publishing access has been granted."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been revoked."
+msgstr "Direct publishing access has been revoked."
+
+#: lms/djangoapps/news/sdg4
+msgid "Approval requests"
+msgstr "Approval requests"
+
+#: lms/djangoapps/news/sdg4
+msgid "Waiting for review"
+msgstr "Waiting for review"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} publications"
+msgstr "{count} publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "The moderation queue is empty"
+msgstr "The moderation queue is empty"
+
+#: lms/djangoapps/news/sdg4
+msgid "New submissions will appear here."
+msgstr "New submissions will appear here."
+
+#: lms/djangoapps/news/sdg4
+msgid "Author access"
+msgstr "Author access"
+
+#: lms/djangoapps/news/sdg4
+msgid "Trusted publishers"
+msgstr "Trusted publishers"
+
+#: lms/djangoapps/news/sdg4
+msgid "Find an account by exact login or email. Trusted publishers can publish immediately; all other users can still create drafts and submit them for approval."
+msgstr "Find an account by exact login or email. Trusted publishers can publish immediately; all other users can still create drafts and submit them for approval."
+
+#: lms/djangoapps/news/sdg4
+msgid "Login or email"
+msgstr "Login or email"
+
+#: lms/djangoapps/news/sdg4
+msgid "Grant access"
+msgstr "Grant access"
+
+#: lms/djangoapps/news/sdg4
+msgid "Revoke access"
+msgstr "Revoke access"
+
+#: lms/djangoapps/news/sdg4
+msgid "Access granted"
+msgstr "Access granted"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication management"
+msgstr "Publication management"
+
+#: lms/djangoapps/news/sdg4
+msgid "Delete publication?"
+msgstr "Delete publication?"
+
+#: lms/djangoapps/news/sdg4
+msgid "This will permanently remove “{title}” and its uploaded files. This action cannot be undone."
+msgstr "This will permanently remove “{title}” and its uploaded files. This action cannot be undone."
+
+#: lms/djangoapps/news/sdg4
+msgid "Yes, delete publication"
+msgstr "Yes, delete publication"
+
+#: lms/djangoapps/news/sdg4
+msgid "No user with this login or email was found."
+msgstr "No user with this login or email was found."
+
+#: lms/djangoapps/news/sdg4
+msgid "More than one user has this email. Enter the exact login."
+msgstr "More than one user has this email. Enter the exact login."
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter a login or email address."
+msgstr "Enter a login or email address."

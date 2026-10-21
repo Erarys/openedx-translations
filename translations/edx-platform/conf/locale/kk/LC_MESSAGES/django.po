@@ -29075,3 +29075,107 @@ msgstr "Тексеруді күтіп тұрғандар: {count}"
 #: lms/djangoapps/news/sdg4
 msgid "{minutes} min"
 msgstr "{minutes} мин"
+
+#: lms/djangoapps/news/sdg4
+msgid "Moderation and access"
+msgstr "Модерация және қол жеткізу"
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been deleted."
+msgstr "Жарияланым жойылды."
+
+#: lms/djangoapps/news/sdg4
+msgid "Administration"
+msgstr "Басқару"
+
+#: lms/djangoapps/news/sdg4
+msgid "Review submitted publications or allow a trusted author to publish without waiting for approval."
+msgstr "Жіберілген жарияланымдарды қарап шығыңыз немесе сенімді авторға мақұлдауды күтпей жариялауға рұқсат беріңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been approved and published."
+msgstr "Жарияланым мақұлданып, жарияланды."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been granted."
+msgstr "Тікелей жариялау құқығы берілді."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been revoked."
+msgstr "Тікелей жариялау құқығы қайтарып алынды."
+
+#: lms/djangoapps/news/sdg4
+msgid "Approval requests"
+msgstr "Мақұлдауға арналған өтінімдер"
+
+#: lms/djangoapps/news/sdg4
+msgid "Waiting for review"
+msgstr "Тексеруді күтуде"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} publications"
+msgstr "Жарияланымдар: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "The moderation queue is empty"
+msgstr "Модерация кезегі бос"
+
+#: lms/djangoapps/news/sdg4
+msgid "New submissions will appear here."
+msgstr "Жаңа өтінімдер осында пайда болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Author access"
+msgstr "Авторларға қол жеткізу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Trusted publishers"
+msgstr "Сенімді авторлар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Find an account by exact login or email. Trusted publishers can publish immediately; all other users can still create drafts and submit them for approval."
+msgstr "Есептік жазбаны дәл логин немесе электрондық пошта арқылы табыңыз. Сенімді авторлар бірден жариялай алады; басқа пайдаланушылар да нобай жасап, оны мақұлдауға жібере алады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Login or email"
+msgstr "Логин немесе электрондық пошта"
+
+#: lms/djangoapps/news/sdg4
+msgid "Grant access"
+msgstr "Қол жеткізу құқығын беру"
+
+#: lms/djangoapps/news/sdg4
+msgid "Revoke access"
+msgstr "Қол жеткізу құқығын қайтарып алу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Access granted"
+msgstr "Қол жеткізу берілді"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication management"
+msgstr "Жарияланымды басқару"
+
+#: lms/djangoapps/news/sdg4
+msgid "Delete publication?"
+msgstr "Жарияланым жойылсын ба?"
+
+#: lms/djangoapps/news/sdg4
+msgid "This will permanently remove “{title}” and its uploaded files. This action cannot be undone."
+msgstr "Бұл «{title}» жарияланымын және оған жүктелген файлдарды біржола жояды. Бұл әрекетті кері қайтару мүмкін емес."
+
+#: lms/djangoapps/news/sdg4
+msgid "Yes, delete publication"
+msgstr "Иә, жарияланымды жою"
+
+#: lms/djangoapps/news/sdg4
+msgid "No user with this login or email was found."
+msgstr "Мұндай логині немесе электрондық поштасы бар пайдаланушы табылмады."
+
+#: lms/djangoapps/news/sdg4
+msgid "More than one user has this email. Enter the exact login."
+msgstr "Бұл электрондық поштаны бірнеше пайдаланушы қолданады. Нақты логинді енгізіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter a login or email address."
+msgstr "Логинді немесе электрондық пошта мекенжайын енгізіңіз."

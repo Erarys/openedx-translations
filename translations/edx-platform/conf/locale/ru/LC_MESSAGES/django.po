@@ -21706,3 +21706,107 @@ msgstr "Ожидают проверки: {count}"
 #: lms/djangoapps/news/sdg4
 msgid "{minutes} min"
 msgstr "{minutes} мин"
+
+#: lms/djangoapps/news/sdg4
+msgid "Moderation and access"
+msgstr "Модерация и доступ"
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been deleted."
+msgstr "Публикация удалена."
+
+#: lms/djangoapps/news/sdg4
+msgid "Administration"
+msgstr "Администрирование"
+
+#: lms/djangoapps/news/sdg4
+msgid "Review submitted publications or allow a trusted author to publish without waiting for approval."
+msgstr "Проверьте отправленные публикации или разрешите доверенному автору публиковать без ожидания одобрения."
+
+#: lms/djangoapps/news/sdg4
+msgid "The publication has been approved and published."
+msgstr "Публикация одобрена и опубликована."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been granted."
+msgstr "Право прямой публикации предоставлено."
+
+#: lms/djangoapps/news/sdg4
+msgid "Direct publishing access has been revoked."
+msgstr "Право прямой публикации отозвано."
+
+#: lms/djangoapps/news/sdg4
+msgid "Approval requests"
+msgstr "Заявки на публикацию"
+
+#: lms/djangoapps/news/sdg4
+msgid "Waiting for review"
+msgstr "Ожидают проверки"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} publications"
+msgstr "Публикаций: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "The moderation queue is empty"
+msgstr "Очередь модерации пуста"
+
+#: lms/djangoapps/news/sdg4
+msgid "New submissions will appear here."
+msgstr "Новые заявки появятся здесь."
+
+#: lms/djangoapps/news/sdg4
+msgid "Author access"
+msgstr "Доступ авторов"
+
+#: lms/djangoapps/news/sdg4
+msgid "Trusted publishers"
+msgstr "Доверенные авторы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Find an account by exact login or email. Trusted publishers can publish immediately; all other users can still create drafts and submit them for approval."
+msgstr "Найдите учетную запись по точному логину или адресу электронной почты. Доверенные авторы могут публиковать сразу; остальные пользователи по-прежнему могут создавать черновики и отправлять их на одобрение."
+
+#: lms/djangoapps/news/sdg4
+msgid "Login or email"
+msgstr "Логин или email"
+
+#: lms/djangoapps/news/sdg4
+msgid "Grant access"
+msgstr "Предоставить доступ"
+
+#: lms/djangoapps/news/sdg4
+msgid "Revoke access"
+msgstr "Отозвать доступ"
+
+#: lms/djangoapps/news/sdg4
+msgid "Access granted"
+msgstr "Доступ предоставлен"
+
+#: lms/djangoapps/news/sdg4
+msgid "Publication management"
+msgstr "Управление публикацией"
+
+#: lms/djangoapps/news/sdg4
+msgid "Delete publication?"
+msgstr "Удалить публикацию?"
+
+#: lms/djangoapps/news/sdg4
+msgid "This will permanently remove “{title}” and its uploaded files. This action cannot be undone."
+msgstr "Публикация «{title}» и загруженные в неё файлы будут удалены безвозвратно. Это действие нельзя отменить."
+
+#: lms/djangoapps/news/sdg4
+msgid "Yes, delete publication"
+msgstr "Да, удалить публикацию"
+
+#: lms/djangoapps/news/sdg4
+msgid "No user with this login or email was found."
+msgstr "Пользователь с таким логином или email не найден."
+
+#: lms/djangoapps/news/sdg4
+msgid "More than one user has this email. Enter the exact login."
+msgstr "Этот email используют несколько пользователей. Введите точный логин."
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter a login or email address."
+msgstr "Введите логин или адрес электронной почты."
