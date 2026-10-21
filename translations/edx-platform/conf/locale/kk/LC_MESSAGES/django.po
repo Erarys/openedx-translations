@@ -29176,3 +29176,43 @@ msgstr "Бұл электрондық поштаны бірнеше пайдал
 #: lms/djangoapps/news/sdg4
 msgid "Enter a login or email address."
 msgstr "Логинді немесе электрондық пошта мекенжайын енгізіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Account confirmation"
+msgstr "Тіркелгіні растау"
+
+#: lms/djangoapps/news/sdg4
+msgid "Confirm your account to create publications"
+msgstr "Жарияланым жасау үшін тіркелгіңізді растаңыз"
+
+#: lms/djangoapps/news/sdg4
+msgid "Your account has not been activated yet. Open the message sent to {email} and follow the activation link, then sign in again."
+msgstr "Тіркелгіңіз әлі белсендірілмеген. {email} мекенжайына жіберілген хатты ашып, белсендіру сілтемесіне өтіңіз, содан кейін жүйеге қайта кіріңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "If the message is missing, check the spam folder or open your learner dashboard to request another activation email."
+msgstr "Хат келмесе, «Спам» қалтасын тексеріңіз немесе белсендіру хатын қайта сұрату үшін білім алушы панелін ашыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Open learner dashboard"
+msgstr "Білім алушы панелін ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter one or more logins or email addresses."
+msgstr "Бір немесе бірнеше логинді не электрондық пошта мекенжайын енгізіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "You can update up to 50 accounts at once."
+msgstr "Бір уақытта 50-ге дейін тіркелгінің қол жеткізуін өзгертуге болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Access was not changed. Correct these accounts:"
+msgstr "Қол жеткізу өзгертілмеді. Мына тіркелгілерді түзетіңіз:"
+
+#: lms/djangoapps/news/sdg4
+msgid "Logins or email addresses"
+msgstr "Логиндер немесе электрондық пошта мекенжайлары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter up to 50 accounts, one per line or separated by commas."
+msgstr "50-ге дейін тіркелгіні енгізіңіз: әр жолға біреуден немесе үтірмен бөліп."

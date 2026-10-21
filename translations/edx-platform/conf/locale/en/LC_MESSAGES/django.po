@@ -25314,3 +25314,43 @@ msgstr "More than one user has this email. Enter the exact login."
 #: lms/djangoapps/news/sdg4
 msgid "Enter a login or email address."
 msgstr "Enter a login or email address."
+
+#: lms/djangoapps/news/sdg4
+msgid "Account confirmation"
+msgstr "Account confirmation"
+
+#: lms/djangoapps/news/sdg4
+msgid "Confirm your account to create publications"
+msgstr "Confirm your account to create publications"
+
+#: lms/djangoapps/news/sdg4
+msgid "Your account has not been activated yet. Open the message sent to {email} and follow the activation link, then sign in again."
+msgstr "Your account has not been activated yet. Open the message sent to {email} and follow the activation link, then sign in again."
+
+#: lms/djangoapps/news/sdg4
+msgid "If the message is missing, check the spam folder or open your learner dashboard to request another activation email."
+msgstr "If the message is missing, check the spam folder or open your learner dashboard to request another activation email."
+
+#: lms/djangoapps/news/sdg4
+msgid "Open learner dashboard"
+msgstr "Open learner dashboard"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter one or more logins or email addresses."
+msgstr "Enter one or more logins or email addresses."
+
+#: lms/djangoapps/news/sdg4
+msgid "You can update up to 50 accounts at once."
+msgstr "You can update up to 50 accounts at once."
+
+#: lms/djangoapps/news/sdg4
+msgid "Access was not changed. Correct these accounts:"
+msgstr "Access was not changed. Correct these accounts:"
+
+#: lms/djangoapps/news/sdg4
+msgid "Logins or email addresses"
+msgstr "Logins or email addresses"
+
+#: lms/djangoapps/news/sdg4
+msgid "Enter up to 50 accounts, one per line or separated by commas."
+msgstr "Enter up to 50 accounts, one per line or separated by commas."
