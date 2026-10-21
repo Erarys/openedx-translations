@@ -23039,6 +23039,7 @@ msgid "CCX student list management response message"
 msgstr "CCX студенттер тізімін басқару жауап хабары"
 
 #: lms/templates/ccx/enrollment.html:85 lms/templates/ccx/enrollment.html:93
+#: lms/djangoapps/news/sdg4
 msgid "Revoke access"
 msgstr "Кіру мүмкіндігін жою"
 
@@ -29143,10 +29144,6 @@ msgstr "Логин немесе электрондық пошта"
 #: lms/djangoapps/news/sdg4
 msgid "Grant access"
 msgstr "Қол жеткізу құқығын беру"
-
-#: lms/djangoapps/news/sdg4
-msgid "Revoke access"
-msgstr "Қол жеткізу құқығын қайтарып алу"
 
 #: lms/djangoapps/news/sdg4
 msgid "Access granted"

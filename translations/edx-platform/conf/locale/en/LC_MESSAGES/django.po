@@ -19948,6 +19948,7 @@ msgid "CCX student list management response message"
 msgstr ""
 
 #: lms/templates/ccx/enrollment.html:85 lms/templates/ccx/enrollment.html:93
+#: lms/djangoapps/news/sdg4
 msgid "Revoke access"
 msgstr ""
 
@@ -25281,10 +25282,6 @@ msgstr "Login or email"
 #: lms/djangoapps/news/sdg4
 msgid "Grant access"
 msgstr "Grant access"
-
-#: lms/djangoapps/news/sdg4
-msgid "Revoke access"
-msgstr "Revoke access"
 
 #: lms/djangoapps/news/sdg4
 msgid "Access granted"
