@@ -28409,8 +28409,8 @@ msgid "Resources for this faculty have not been published yet."
 msgstr "Бұл факультеттің ресурстары әлі жарияланбаған."
 
 #: lms/djangoapps/news/sdg4
-msgid "OpenLektorium"
-msgstr "Лекториум"
+msgid "Open лекториум"
+msgstr "Open лекториум"
 
 #: lms/djangoapps/news/sdg4
 msgid "Save resources"
@@ -29254,8 +29254,8 @@ msgid "Presentation courses and video courses in Kazakh, Russian and English —
 msgstr "Қазақ, орыс және ағылшын тілдеріндегі презентациялар мен бейнекурстар — барлығына ашық."
 
 #: lms/djangoapps/news/sdg4
-msgid "OpenLektorium catalogue"
-msgstr "Лекториум каталогы"
+msgid "Open лекториум catalogue"
+msgstr "Open лекториум каталогы"
 
 #: lms/djangoapps/news/sdg4
 msgid "{count} teachers"
