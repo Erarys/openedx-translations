@@ -25364,8 +25364,8 @@ msgid "Presentation course"
 msgstr "Presentation course"
 
 #: lms/djangoapps/news/sdg4
-msgid "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
-msgstr "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
+msgid "Select PDF files. Lesson titles will use the file names."
+msgstr "Select PDF files. Lesson titles will use the file names."
 
 #: lms/djangoapps/news/sdg4
 msgid "Presentation or video file"
@@ -25376,8 +25376,8 @@ msgid "The file exceeds the 1 GB upload limit."
 msgstr "The file exceeds the 1 GB upload limit."
 
 #: lms/djangoapps/news/sdg4
-msgid "Presentation materials must be PDF, PPT or PPTX files."
-msgstr "Presentation materials must be PDF, PPT or PPTX files."
+msgid "Presentation materials must be PDF files."
+msgstr "Presentation materials must be PDF files."
 
 #: lms/djangoapps/news/sdg4
 msgid "Tab {number}"
@@ -25416,12 +25416,12 @@ msgid "Teacher information"
 msgstr "Teacher information"
 
 #: lms/djangoapps/news/sdg4
-msgid "{count} tabs"
-msgstr "{count} tabs"
+msgid "{count} courses"
+msgstr "{count} courses"
 
 #: lms/djangoapps/news/sdg4
-msgid "Open teacher resources"
-msgstr "Open teacher resources"
+msgid "Open learning resources"
+msgstr "Open learning resources"
 
 #: lms/djangoapps/news/sdg4
 msgid "No teachers match your search."
@@ -25436,8 +25436,8 @@ msgid "Teachers will appear here after their resources are approved by an admini
 msgstr "Teachers will appear here after their resources are approved by an administrator."
 
 #: lms/djangoapps/news/sdg4
-msgid "Edit this tab"
-msgstr "Edit this tab"
+msgid "Edit this course"
+msgstr "Edit this course"
 
 #: lms/djangoapps/news/sdg4
 msgid "Photo of {name}"
@@ -25448,8 +25448,8 @@ msgid "E-learning resources"
 msgstr "E-learning resources"
 
 #: lms/djangoapps/news/sdg4
-msgid "Teacher resource tabs"
-msgstr "Teacher resource tabs"
+msgid "Teacher courses"
+msgstr "Teacher courses"
 
 #: lms/djangoapps/news/sdg4
 msgid "A browser preview is not available for this file. Open or download the presentation."
@@ -25468,16 +25468,16 @@ msgid "The resources have been sent for moderation. They will appear in the publ
 msgstr "The resources have been sent for moderation. They will appear in the public catalogue after administrator approval."
 
 #: lms/djangoapps/news/sdg4
-msgid "Tab translations (KZ / EN)"
-msgstr "Tab translations (KZ / EN)"
+msgid "Course translations (KZ / EN)"
+msgstr "Course translations (KZ / EN)"
 
 #: lms/djangoapps/news/sdg4
 msgid "Materials in display order"
 msgstr "Materials in display order"
 
 #: lms/djangoapps/news/sdg4
-msgid "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
-msgstr "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+msgid "Presentation courses accept PDF files. Video courses accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+msgstr "Presentation courses accept PDF files. Video courses accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
 
 #: lms/djangoapps/news/sdg4
 msgid "Teacher profile translations (KZ / EN)"
@@ -25500,28 +25500,28 @@ msgid "The upload could not be completed. Check your connection and try again."
 msgstr "The upload could not be completed. Check your connection and try again."
 
 #: lms/djangoapps/news/sdg4
-msgid "Remove tab"
-msgstr "Remove tab"
+msgid "Remove course"
+msgstr "Remove course"
 
 #: lms/djangoapps/news/sdg4
-msgid "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
-msgstr "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
+msgid "Complete the teacher profile and add presentation or video courses. You can publish one course now and add more later."
+msgstr "Complete the teacher profile and add presentation or video courses. You can publish one course now and add more later."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add tab"
-msgstr "Add tab"
+msgid "Add course"
+msgstr "Add course"
 
 #: lms/djangoapps/news/sdg4
-msgid "The number of tabs is invalid."
-msgstr "The number of tabs is invalid."
+msgid "The number of courses is invalid."
+msgstr "The number of courses is invalid."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add at least one tab before publishing."
-msgstr "Add at least one tab before publishing."
+msgid "Add at least one course before publishing."
+msgstr "Add at least one course before publishing."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add at least one lesson to this tab."
-msgstr "Add at least one lesson to this tab."
+msgid "Add at least one lesson to this course."
+msgstr "Add at least one lesson to this course."
 
 #: lms/djangoapps/news/sdg4
 msgid "Use a valid university YouTube video."

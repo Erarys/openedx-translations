@@ -21041,7 +21041,7 @@ msgstr "Ресурсы этого факультета пока не опубл�
 
 #: lms/djangoapps/news/sdg4
 msgid "Open лекториум"
-msgstr "Open лекториум"
+msgstr "Открытый лекториум"
 
 #: lms/djangoapps/news/sdg4
 msgid "Save resources"
@@ -21857,8 +21857,8 @@ msgid "Presentation course"
 msgstr "Курс презентаций"
 
 #: lms/djangoapps/news/sdg4
-msgid "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
-msgstr "Выберите файлы PDF, PPT или PPTX. Названия занятий будут взяты из имён файлов."
+msgid "Select PDF files. Lesson titles will use the file names."
+msgstr "Выберите файлы PDF. Названия занятий будут взяты из имён файлов."
 
 #: lms/djangoapps/news/sdg4
 msgid "Presentation or video file"
@@ -21869,8 +21869,8 @@ msgid "The file exceeds the 1 GB upload limit."
 msgstr "Размер файла превышает ограничение в 1 ГБ."
 
 #: lms/djangoapps/news/sdg4
-msgid "Presentation materials must be PDF, PPT or PPTX files."
-msgstr "Материалы презентации должны быть файлами PDF, PPT или PPTX."
+msgid "Presentation materials must be PDF files."
+msgstr "Материалы презентации должны быть файлами PDF."
 
 #: lms/djangoapps/news/sdg4
 msgid "Tab {number}"
@@ -21886,7 +21886,7 @@ msgstr "Курсы презентаций и видеокурсы на каза�
 
 #: lms/djangoapps/news/sdg4
 msgid "Open лекториум catalogue"
-msgstr "Каталог Open лекториума"
+msgstr "Каталог Открытого лекториума"
 
 #: lms/djangoapps/news/sdg4
 msgid "{count} teachers"
@@ -21909,12 +21909,12 @@ msgid "Teacher information"
 msgstr "Информация о преподавателе"
 
 #: lms/djangoapps/news/sdg4
-msgid "{count} tabs"
-msgstr "Вкладок: {count}"
+msgid "{count} courses"
+msgstr "Курсов: {count}"
 
 #: lms/djangoapps/news/sdg4
-msgid "Open teacher resources"
-msgstr "Открыть ресурсы преподавателя"
+msgid "Open learning resources"
+msgstr "Открыть учебные ресурсы"
 
 #: lms/djangoapps/news/sdg4
 msgid "No teachers match your search."
@@ -21929,8 +21929,8 @@ msgid "Teachers will appear here after their resources are approved by an admini
 msgstr "Преподаватели появятся здесь после одобрения их ресурсов администратором."
 
 #: lms/djangoapps/news/sdg4
-msgid "Edit this tab"
-msgstr "Редактировать эту вкладку"
+msgid "Edit this course"
+msgstr "Редактировать этот курс"
 
 #: lms/djangoapps/news/sdg4
 msgid "Photo of {name}"
@@ -21941,8 +21941,8 @@ msgid "E-learning resources"
 msgstr "Электронные учебные ресурсы"
 
 #: lms/djangoapps/news/sdg4
-msgid "Teacher resource tabs"
-msgstr "Вкладки учебных ресурсов преподавателя"
+msgid "Teacher courses"
+msgstr "Курсы преподавателя"
 
 #: lms/djangoapps/news/sdg4
 msgid "A browser preview is not available for this file. Open or download the presentation."
@@ -21961,16 +21961,16 @@ msgid "The resources have been sent for moderation. They will appear in the publ
 msgstr "Ресурсы отправлены на модерацию. Они появятся в открытом каталоге после одобрения администратором."
 
 #: lms/djangoapps/news/sdg4
-msgid "Tab translations (KZ / EN)"
-msgstr "Переводы вкладки (KZ / EN)"
+msgid "Course translations (KZ / EN)"
+msgstr "Переводы курса (KZ / EN)"
 
 #: lms/djangoapps/news/sdg4
 msgid "Materials in display order"
 msgstr "Материалы в порядке отображения"
 
 #: lms/djangoapps/news/sdg4
-msgid "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
-msgstr "Вкладки презентаций принимают PDF, PPT и PPTX. Вкладки видео принимают MP4, WebM, OGV или ссылку на университетский канал YouTube. Размер каждого файла — до 1 ГБ."
+msgid "Presentation courses accept PDF files. Video courses accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+msgstr "Курсы презентаций принимают файлы PDF. Видеокурсы принимают MP4, WebM, OGV или ссылку на университетский канал YouTube. Размер каждого файла — до 1 ГБ."
 
 #: lms/djangoapps/news/sdg4
 msgid "Teacher profile translations (KZ / EN)"
@@ -21993,28 +21993,28 @@ msgid "The upload could not be completed. Check your connection and try again."
 msgstr "Не удалось завершить загрузку. Проверьте подключение и повторите попытку."
 
 #: lms/djangoapps/news/sdg4
-msgid "Remove tab"
-msgstr "Удалить вкладку"
+msgid "Remove course"
+msgstr "Удалить курс"
 
 #: lms/djangoapps/news/sdg4
-msgid "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
-msgstr "Заполните профиль преподавателя и добавьте вкладки с презентациями или видео. Можно опубликовать одну вкладку сейчас, а остальные добавить позже."
+msgid "Complete the teacher profile and add presentation or video courses. You can publish one course now and add more later."
+msgstr "Заполните профиль преподавателя и добавьте курсы с презентациями или видео. Можно опубликовать один курс сейчас, а остальные добавить позже."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add tab"
-msgstr "Добавить вкладку"
+msgid "Add course"
+msgstr "Добавить курс"
 
 #: lms/djangoapps/news/sdg4
-msgid "The number of tabs is invalid."
-msgstr "Некорректное количество вкладок."
+msgid "The number of courses is invalid."
+msgstr "Некорректное количество курсов."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add at least one tab before publishing."
-msgstr "Перед публикацией добавьте хотя бы одну вкладку."
+msgid "Add at least one course before publishing."
+msgstr "Перед публикацией добавьте хотя бы один курс."
 
 #: lms/djangoapps/news/sdg4
-msgid "Add at least one lesson to this tab."
-msgstr "Добавьте хотя бы один материал в эту вкладку."
+msgid "Add at least one lesson to this course."
+msgstr "Добавьте хотя бы один материал в этот курс."
 
 #: lms/djangoapps/news/sdg4
 msgid "Use a valid university YouTube video."
