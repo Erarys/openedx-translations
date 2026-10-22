@@ -22019,3 +22019,55 @@ msgstr "Добавьте хотя бы один материал в эту вк�
 #: lms/djangoapps/news/sdg4
 msgid "Use a valid university YouTube video."
 msgstr "Укажите корректную ссылку на университетское видео YouTube."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload request is invalid."
+msgstr "Некорректный запрос загрузки."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload has expired. Select the file again."
+msgstr "Срок временной загрузки истёк. Выберите файл повторно."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is invalid."
+msgstr "Некорректная временная загрузка."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload does not belong to this account."
+msgstr "Временная загрузка не принадлежит этой учётной записи."
+
+#: lms/djangoapps/news/sdg4
+msgid "The selected file cannot be uploaded."
+msgstr "Выбранный файл невозможно загрузить."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk number is invalid."
+msgstr "Некорректный номер части файла."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk is incomplete."
+msgstr "Часть файла загружена не полностью."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk could not be stored."
+msgstr "Не удалось сохранить часть файла."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload is incomplete. Please try again."
+msgstr "Загрузка не завершена. Повторите попытку."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file size is invalid."
+msgstr "Некорректный размер загруженного файла."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file could not be assembled."
+msgstr "Не удалось собрать загруженный файл."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is incomplete. Select the file again."
+msgstr "Временная загрузка не завершена. Выберите файл повторно."
+
+#: lms/djangoapps/news/sdg4
+msgid "Too many temporary uploads were submitted."
+msgstr "Отправлено слишком много временных загрузок."

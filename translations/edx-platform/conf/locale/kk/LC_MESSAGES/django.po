@@ -29388,3 +29388,55 @@ msgstr "Осы қойындыға кемінде бір материал қос�
 #: lms/djangoapps/news/sdg4
 msgid "Use a valid university YouTube video."
 msgstr "Университеттің жарамды YouTube бейнесін көрсетіңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload request is invalid."
+msgstr "Жүктеу сұрауы жарамсыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload has expired. Select the file again."
+msgstr "Уақытша жүктеудің мерзімі аяқталды. Файлды қайта таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is invalid."
+msgstr "Уақытша жүктеу жарамсыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload does not belong to this account."
+msgstr "Уақытша жүктеу бұл тіркелгіге тиесілі емес."
+
+#: lms/djangoapps/news/sdg4
+msgid "The selected file cannot be uploaded."
+msgstr "Таңдалған файлды жүктеу мүмкін емес."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk number is invalid."
+msgstr "Файл бөлігінің нөмірі жарамсыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk is incomplete."
+msgstr "Файл бөлігі толық жүктелмеді."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk could not be stored."
+msgstr "Файл бөлігін сақтау мүмкін болмады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload is incomplete. Please try again."
+msgstr "Жүктеу аяқталмады. Қайта әрекет жасап көріңіз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file size is invalid."
+msgstr "Жүктелген файлдың өлшемі жарамсыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file could not be assembled."
+msgstr "Жүктелген файлды біріктіру мүмкін болмады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is incomplete. Select the file again."
+msgstr "Уақытша жүктеу аяқталмады. Файлды қайта таңдаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Too many temporary uploads were submitted."
+msgstr "Уақытша жүктеулер тым көп жіберілді."

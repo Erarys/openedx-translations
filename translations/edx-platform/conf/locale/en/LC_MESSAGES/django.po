@@ -25526,3 +25526,55 @@ msgstr "Add at least one lesson to this tab."
 #: lms/djangoapps/news/sdg4
 msgid "Use a valid university YouTube video."
 msgstr "Use a valid university YouTube video."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload request is invalid."
+msgstr "The upload request is invalid."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload has expired. Select the file again."
+msgstr "The temporary upload has expired. Select the file again."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is invalid."
+msgstr "The temporary upload is invalid."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload does not belong to this account."
+msgstr "The temporary upload does not belong to this account."
+
+#: lms/djangoapps/news/sdg4
+msgid "The selected file cannot be uploaded."
+msgstr "The selected file cannot be uploaded."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk number is invalid."
+msgstr "The upload chunk number is invalid."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk is incomplete."
+msgstr "The upload chunk is incomplete."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload chunk could not be stored."
+msgstr "The upload chunk could not be stored."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload is incomplete. Please try again."
+msgstr "The upload is incomplete. Please try again."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file size is invalid."
+msgstr "The uploaded file size is invalid."
+
+#: lms/djangoapps/news/sdg4
+msgid "The uploaded file could not be assembled."
+msgstr "The uploaded file could not be assembled."
+
+#: lms/djangoapps/news/sdg4
+msgid "The temporary upload is incomplete. Select the file again."
+msgstr "The temporary upload is incomplete. Select the file again."
+
+#: lms/djangoapps/news/sdg4
+msgid "Too many temporary uploads were submitted."
+msgstr "Too many temporary uploads were submitted."
