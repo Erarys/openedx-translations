@@ -21991,3 +21991,31 @@ msgstr "Размер каждого файла не должен превыша�
 #: lms/djangoapps/news/sdg4
 msgid "The upload could not be completed. Check your connection and try again."
 msgstr "Не удалось завершить загрузку. Проверьте подключение и повторите попытку."
+
+#: lms/djangoapps/news/sdg4
+msgid "Remove tab"
+msgstr "Удалить вкладку"
+
+#: lms/djangoapps/news/sdg4
+msgid "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
+msgstr "Заполните профиль преподавателя и добавьте вкладки с презентациями или видео. Можно опубликовать одну вкладку сейчас, а остальные добавить позже."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add tab"
+msgstr "Добавить вкладку"
+
+#: lms/djangoapps/news/sdg4
+msgid "The number of tabs is invalid."
+msgstr "Некорректное количество вкладок."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one tab before publishing."
+msgstr "Перед публикацией добавьте хотя бы одну вкладку."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one lesson to this tab."
+msgstr "Добавьте хотя бы один материал в эту вкладку."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a valid university YouTube video."
+msgstr "Укажите корректную ссылку на университетское видео YouTube."

@@ -25498,3 +25498,31 @@ msgstr "Each file must be no larger than 1 GB."
 #: lms/djangoapps/news/sdg4
 msgid "The upload could not be completed. Check your connection and try again."
 msgstr "The upload could not be completed. Check your connection and try again."
+
+#: lms/djangoapps/news/sdg4
+msgid "Remove tab"
+msgstr "Remove tab"
+
+#: lms/djangoapps/news/sdg4
+msgid "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
+msgstr "Complete the teacher profile and add presentation or video tabs. You can publish one tab now and add more later."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add tab"
+msgstr "Add tab"
+
+#: lms/djangoapps/news/sdg4
+msgid "The number of tabs is invalid."
+msgstr "The number of tabs is invalid."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one tab before publishing."
+msgstr "Add at least one tab before publishing."
+
+#: lms/djangoapps/news/sdg4
+msgid "Add at least one lesson to this tab."
+msgstr "Add at least one lesson to this tab."
+
+#: lms/djangoapps/news/sdg4
+msgid "Use a valid university YouTube video."
+msgstr "Use a valid university YouTube video."
