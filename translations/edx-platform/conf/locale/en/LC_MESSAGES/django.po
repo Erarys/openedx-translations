@@ -24551,8 +24551,8 @@ msgid "Resources for this faculty have not been published yet."
 msgstr "Resources for this faculty have not been published yet."
 
 #: lms/djangoapps/news/sdg4
-msgid "SDG 4: Quality Education"
-msgstr "SDG 4: Quality Education"
+msgid "OpenLektorium"
+msgstr "OpenLektorium"
 
 #: lms/djangoapps/news/sdg4
 msgid "Save resources"
