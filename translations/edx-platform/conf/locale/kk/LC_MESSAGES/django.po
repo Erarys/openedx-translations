@@ -29220,3 +29220,143 @@ msgstr "50-ге дейін тіркелгіні енгізіңіз: әр жол�
 #: lms/djangoapps/news/sdg4
 msgid "Presentation preview is temporarily unavailable. Download the original file to view it."
 msgstr "Презентацияны алдын ала қарау уақытша қолжетімсіз. Оны ашу үшін бастапқы файлды жүктеп алыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation course"
+msgstr "Презентациялар курсы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
+msgstr "PDF, PPT немесе PPTX файлдарын таңдаңыз. Сабақ атаулары файл атауларынан алынады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation or video file"
+msgstr "Презентация немесе бейне файлы"
+
+#: lms/djangoapps/news/sdg4
+msgid "The file exceeds the 1 GB upload limit."
+msgstr "Файл өлшемі 1 ГБ жүктеу шегінен асады."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation materials must be PDF, PPT or PPTX files."
+msgstr "Презентация материалдары PDF, PPT немесе PPTX форматында болуы керек."
+
+#: lms/djangoapps/news/sdg4
+msgid "Tab {number}"
+msgstr "Қойынды {number}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open learning resources from KazNU teachers"
+msgstr "ҚазҰУ оқытушыларының ашық оқу ресурстары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation courses and video courses in Kazakh, Russian and English — open to everyone."
+msgstr "Қазақ, орыс және ағылшын тілдеріндегі презентациялар мен бейнекурстар — барлығына ашық."
+
+#: lms/djangoapps/news/sdg4
+msgid "OpenLektorium catalogue"
+msgstr "Лекториум каталогы"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} teachers"
+msgstr "Оқытушылар саны: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Search teachers"
+msgstr "Оқытушыларды іздеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher name, position or department"
+msgstr "Оқытушының аты-жөні, лауазымы немесе кафедрасы"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers found: {count}"
+msgstr "Табылған оқытушылар: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher information"
+msgstr "Оқытушы туралы ақпарат"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} tabs"
+msgstr "Қойындылар саны: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open teacher resources"
+msgstr "Оқытушы ресурстарын ашу"
+
+#: lms/djangoapps/news/sdg4
+msgid "No teachers match your search."
+msgstr "Іздеуіңізге сәйкес оқытушылар табылмады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The teacher catalogue is being prepared"
+msgstr "Оқытушылар каталогы дайындалуда"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers will appear here after their resources are approved by an administrator."
+msgstr "Оқытушылардың ресурстарын әкімші мақұлдағаннан кейін олар осы жерде көрсетіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit this tab"
+msgstr "Осы қойындыны өңдеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Photo of {name}"
+msgstr "{name} оқытушысының фотосуреті"
+
+#: lms/djangoapps/news/sdg4
+msgid "E-learning resources"
+msgstr "Электрондық оқу ресурстары"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher resource tabs"
+msgstr "Оқытушының оқу ресурстары қойындылары"
+
+#: lms/djangoapps/news/sdg4
+msgid "A browser preview is not available for this file. Open or download the presentation."
+msgstr "Бұл файлды браузерде алдын ала қарау қолжетімсіз. Презентацияны ашыңыз немесе жүктеп алыңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit teacher resources"
+msgstr "Оқытушы ресурстарын өңдеу"
+
+#: lms/djangoapps/news/sdg4
+msgid "Complete the teacher profile and exactly three tabs. Each tab contains presentations or videos; drafts may be completed later."
+msgstr "Оқытушы профилін және дәл үш қойындыны толтырыңыз. Әр қойындыда презентациялар немесе бейнелер болады; нобайды кейін толықтыруға болады."
+
+#: lms/djangoapps/news/sdg4
+msgid "The resources have been sent for moderation. They will appear in the public catalogue after administrator approval."
+msgstr "Ресурстар модерацияға жіберілді. Әкімші мақұлдағаннан кейін олар ашық каталогта көрсетіледі."
+
+#: lms/djangoapps/news/sdg4
+msgid "Tab translations (KZ / EN)"
+msgstr "Қойынды аудармалары (KZ / EN)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials in display order"
+msgstr "Көрсетілу реті бойынша материалдар"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+msgstr "Презентация қойындылары PDF, PPT және PPTX файлдарын қабылдайды. Бейне қойындылары MP4, WebM, OGV немесе университеттің YouTube сілтемесін қабылдайды. Әр файлдың өлшемі 1 ГБ-қа дейін болуы мүмкін."
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher profile translations (KZ / EN)"
+msgstr "Оқытушы профилінің аудармалары (KZ / EN)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Uploading files"
+msgstr "Файлдар жүктелуде"
+
+#: lms/djangoapps/news/sdg4
+msgid "Do not close this page until the upload is complete."
+msgstr "Жүктеу аяқталғанша бұл бетті жаппаңыз."
+
+#: lms/djangoapps/news/sdg4
+msgid "Each file must be no larger than 1 GB."
+msgstr "Әр файлдың өлшемі 1 ГБ-тан аспауы керек."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload could not be completed. Check your connection and try again."
+msgstr "Жүктеуді аяқтау мүмкін болмады. Байланысты тексеріп, әрекетті қайталаңыз."

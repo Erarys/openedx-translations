@@ -25358,3 +25358,143 @@ msgstr "Enter up to 50 accounts, one per line or separated by commas."
 #: lms/djangoapps/news/sdg4
 msgid "Presentation preview is temporarily unavailable. Download the original file to view it."
 msgstr "Presentation preview is temporarily unavailable. Download the original file to view it."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation course"
+msgstr "Presentation course"
+
+#: lms/djangoapps/news/sdg4
+msgid "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
+msgstr "Select PDF, PPT or PPTX files. Lesson titles will use the file names."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation or video file"
+msgstr "Presentation or video file"
+
+#: lms/djangoapps/news/sdg4
+msgid "The file exceeds the 1 GB upload limit."
+msgstr "The file exceeds the 1 GB upload limit."
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation materials must be PDF, PPT or PPTX files."
+msgstr "Presentation materials must be PDF, PPT or PPTX files."
+
+#: lms/djangoapps/news/sdg4
+msgid "Tab {number}"
+msgstr "Tab {number}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open learning resources from KazNU teachers"
+msgstr "Open learning resources from KazNU teachers"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation courses and video courses in Kazakh, Russian and English — open to everyone."
+msgstr "Presentation courses and video courses in Kazakh, Russian and English — open to everyone."
+
+#: lms/djangoapps/news/sdg4
+msgid "OpenLektorium catalogue"
+msgstr "OpenLektorium catalogue"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} teachers"
+msgstr "{count} teachers"
+
+#: lms/djangoapps/news/sdg4
+msgid "Search teachers"
+msgstr "Search teachers"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher name, position or department"
+msgstr "Teacher name, position or department"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers found: {count}"
+msgstr "Teachers found: {count}"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher information"
+msgstr "Teacher information"
+
+#: lms/djangoapps/news/sdg4
+msgid "{count} tabs"
+msgstr "{count} tabs"
+
+#: lms/djangoapps/news/sdg4
+msgid "Open teacher resources"
+msgstr "Open teacher resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "No teachers match your search."
+msgstr "No teachers match your search."
+
+#: lms/djangoapps/news/sdg4
+msgid "The teacher catalogue is being prepared"
+msgstr "The teacher catalogue is being prepared"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teachers will appear here after their resources are approved by an administrator."
+msgstr "Teachers will appear here after their resources are approved by an administrator."
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit this tab"
+msgstr "Edit this tab"
+
+#: lms/djangoapps/news/sdg4
+msgid "Photo of {name}"
+msgstr "Photo of {name}"
+
+#: lms/djangoapps/news/sdg4
+msgid "E-learning resources"
+msgstr "E-learning resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher resource tabs"
+msgstr "Teacher resource tabs"
+
+#: lms/djangoapps/news/sdg4
+msgid "A browser preview is not available for this file. Open or download the presentation."
+msgstr "A browser preview is not available for this file. Open or download the presentation."
+
+#: lms/djangoapps/news/sdg4
+msgid "Edit teacher resources"
+msgstr "Edit teacher resources"
+
+#: lms/djangoapps/news/sdg4
+msgid "Complete the teacher profile and exactly three tabs. Each tab contains presentations or videos; drafts may be completed later."
+msgstr "Complete the teacher profile and exactly three tabs. Each tab contains presentations or videos; drafts may be completed later."
+
+#: lms/djangoapps/news/sdg4
+msgid "The resources have been sent for moderation. They will appear in the public catalogue after administrator approval."
+msgstr "The resources have been sent for moderation. They will appear in the public catalogue after administrator approval."
+
+#: lms/djangoapps/news/sdg4
+msgid "Tab translations (KZ / EN)"
+msgstr "Tab translations (KZ / EN)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Materials in display order"
+msgstr "Materials in display order"
+
+#: lms/djangoapps/news/sdg4
+msgid "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+msgstr "Presentation tabs accept PDF, PPT and PPTX. Video tabs accept MP4, WebM, OGV or a university YouTube link. Each uploaded file may be up to 1 GB."
+
+#: lms/djangoapps/news/sdg4
+msgid "Teacher profile translations (KZ / EN)"
+msgstr "Teacher profile translations (KZ / EN)"
+
+#: lms/djangoapps/news/sdg4
+msgid "Uploading files"
+msgstr "Uploading files"
+
+#: lms/djangoapps/news/sdg4
+msgid "Do not close this page until the upload is complete."
+msgstr "Do not close this page until the upload is complete."
+
+#: lms/djangoapps/news/sdg4
+msgid "Each file must be no larger than 1 GB."
+msgstr "Each file must be no larger than 1 GB."
+
+#: lms/djangoapps/news/sdg4
+msgid "The upload could not be completed. Check your connection and try again."
+msgstr "The upload could not be completed. Check your connection and try again."
