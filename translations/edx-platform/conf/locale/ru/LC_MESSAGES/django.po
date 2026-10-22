@@ -21040,7 +21040,7 @@ msgid "Resources for this faculty have not been published yet."
 msgstr "Ресурсы этого факультета пока не опубликованы."
 
 #: lms/djangoapps/news/sdg4
-msgid "Open лекториум"
+msgid "OpenLektorium"
 msgstr "Открытый лекториум"
 
 #: lms/djangoapps/news/sdg4

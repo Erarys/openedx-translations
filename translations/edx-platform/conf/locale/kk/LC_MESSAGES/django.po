@@ -28409,7 +28409,7 @@ msgid "Resources for this faculty have not been published yet."
 msgstr "Бұл факультеттің ресурстары әлі жарияланбаған."
 
 #: lms/djangoapps/news/sdg4
-msgid "Open лекториум"
+msgid "OpenLektorium"
 msgstr "Ашық лекториум"
 
 #: lms/djangoapps/news/sdg4
