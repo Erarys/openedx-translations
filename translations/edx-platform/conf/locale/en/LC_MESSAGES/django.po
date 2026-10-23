@@ -24551,7 +24551,7 @@ msgid "Resources for this faculty have not been published yet."
 msgstr "Resources for this faculty have not been published yet."
 
 #: lms/djangoapps/news/sdg4
-msgid "Open лекториум"
+msgid "Открытый лекториум"
 msgstr "Open Lectorium"
 
 #: lms/djangoapps/news/sdg4
