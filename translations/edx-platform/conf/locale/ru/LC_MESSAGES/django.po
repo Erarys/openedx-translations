@@ -21949,8 +21949,8 @@ msgid "A browser preview is not available for this file. Open or download the pr
 msgstr "Для этого файла недоступен предпросмотр в браузере. Откройте или скачайте презентацию."
 
 #: lms/djangoapps/news/sdg4
-msgid "Edit teacher resources"
-msgstr "Редактировать ресурсы преподавателя"
+msgid "Educational resources"
+msgstr "Учебные ресурсы"
 
 #: lms/djangoapps/news/sdg4
 msgid "Complete the teacher profile and exactly three tabs. Each tab contains presentations or videos; drafts may be completed later."
